@@ -2,5 +2,5 @@
   "version": "4.0.1",
   "message": "Same Download Link From E-MAIL.",
   "link": "https://captureflex.in",
-  "force_update": true
+  "force_update": false
 }
