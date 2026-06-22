@@ -1,39 +1,7 @@
 {
   "id": "flex_changelog_announcement_v1",
   "title": "New Update Available!",
-  "message": "🚀 Flex GUI Pro — Version 5.2.1 Official Release Notes
-This stable release delivers critical performance optimizations and layout corrections, specifically resolving underlying instabilities within the Shakes Panel and the Text Manipulation Engine.
-
-🛠️ Performance Fixes & Stability Upgrades
-1. Shakes Panel Optimization
-Preset Initialization Fix: Resolved an issue where applying custom camera shakes (such as Warp, Wave, or Lens) would occasionally drop keyframes or fail to initialize correctly on complex multi-layer compositions.
-
-Slider Boundary Calibration: Fixed a calculation error in the Speed and Strength sliders to ensure perfectly smooth, responsive data mapping without visual clipping.
-
-2. Text Manipulation Engine Corrective Patch
-Split-Mode Render Fix: Resolved a critical bug within the Text Exploder and Fonts Tab where isolating text by Characters, Words, or Paragraphs would cause layout breaking or text layer displacement under specific paragraph alignments.
-
-Live Preview Synchronization: Fixed real-time rendering delays inside the text canvas preview window, ensuring immediate visual feedback when switching between active composition layers.
-
-➕ Re-introducing Core V5.2.0 Ecosystem Features
-3. Universal Layer Saving & AE Syncing
-Universal Layer Support: Comp Saver completely supports saving individual selections of any layer type (Vector Shapes, Adjustment Layers, Text, Solids, or Nulls) directly to your library without forcing a precomposition.
-
-Label Color Syncing: UI elements inside the asset grid now automatically render left border tags and top-left indexing dots that match your native After Effects layer label colors perfectly.
-
-Real-Time Database Search: A clean search input bar filters your saved layout blocks and composition assets instantaneously as you type.
-
-4. Interactive Task Architecture
-Integrated Notepad Overlay: Features an auto-saving production notepad and an interactive task checklist mapping row creations directly to the Enter key.
-
-Draggable Task Bubble: A floating interface utility that anchors above your active workspace panels to keep your immediate project milestones visible from any layout orientation.
-
-5. High-Definition Global Media Downloader
-High-Fidelity Stream Merging: Bypasses legacy resolution fallbacks to automatically fetch and compile top-tier stream configurations.
-
-Automated Environment Setup: Instantly detects missing system dependencies and auto-downloads static matching binaries to enable immediate high-definition media rendering on Apple Silicon, Intel Mac, and Windows environments out of the box.
-
-All core ExtendScript library dependencies, HTML signatures, and internal line verification hashes have been systematically updated and validated for stable deployment.",
+  "message": "TESTING",
   "btnText": "Check Changelog",
   "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/Changelogs.json",
   "versionBelow": "7.0.3"
