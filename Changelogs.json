@@ -1,1 +1,8 @@
-Test
+{
+  "id": "flex_changelog_announcement_v1",
+  "title": "New Update Available!",
+  "message": "THIS IS JUST A TEST!",
+  "btnText": "Check Changelog",
+  "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/Changelogs.json",
+  "versionBelow": "6.0.3"
+}
