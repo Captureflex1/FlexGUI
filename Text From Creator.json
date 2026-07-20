@@ -1,1 +1,7 @@
-
+{
+  "id": "creator-message-001",
+  "title": "Message from Creator",
+  "message": "Hello Flex editors!\n\n[Join our Discord](https://discord.gg/example)\n\nVisit https://captureflex.in for more.",
+  "badgeText": "MESSAGE FROM CREATOR",
+  "enabled": true
+}
