@@ -1,9 +1,7 @@
 {
   "id": "creator-message-003",
-  "title": "A Small Ask From The Team",
+  "title": "Message from Creator",
+  "message": "Hey editors!\n\nI'll be honest with you — you already love Flex GUI Pro. That part is done. What we're missing is every editor still working the slow way because they've never heard of it.\n\nSo here's the ask: post about Flex in a Reel or a Story.\n\nAnd please don't skip this because your account is small. 10 followers is fine. 10 followers who edit is worth more than 10,000 who don't. Show the one feature that saves you the most time — five seconds is enough, don't overthink it. Tag us and we'll reshare you.\n\nTag this profile: https://www.instagram.com/ig_sanu98/\n\nI just handle announcements around here. But I've heard the owner say what he's actually chasing — Flex sitting in every editor's workspace, everywhere. That only happens if the people already using it talk about it.\n\nOne post. That's all. Thank you. — Team Flex",
   "badgeText": "Help Flex grow",
-  "enabled": true,
-  "btnText": "OPEN INSTAGRAM",
-  "btnLink": "https://www.instagram.com/ig_sanu98/",
-  "message": "## Hey editors\n\nI'll be honest with you — you already love Flex GUI Pro. That part is done. What we're missing is every editor still working the slow way because they've never heard of it.\n\n### So here's the ask: post about Flex in a Reel or a Story\n\nAnd please don't skip this because your account is small. 10 followers is fine. 10 followers who edit is worth more than 10,000 who don't.\n\n- Show the one feature that saves you the most time\n- Five seconds is enough — don't overthink it\n- Tag us and we'll reshare you\n\n### Tag this profile\n\nhttps://www.instagram.com/ig_sanu98/\n\nI just handle announcements around here. But I've heard the owner say what he's actually chasing — Flex sitting in every editor's workspace, everywhere. That only happens if the people already using it talk about it.\n\nOne post. That's all. Thank you. — Team Flex"
+  "enabled": true
 }
