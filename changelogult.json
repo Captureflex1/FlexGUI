@@ -1,6 +1,6 @@
 {
   "id": "flex_ultimate_announcement_v2_0_4",
-  "title": "2.0.2",
+  "title": "2.0.4",
   "message": "♦️ FLEX ULTIMATE V2.0.4 IS LIVE! (PREMIERE PRO)\n\nVersion 2.0.4 brings comprehensive timeline synchronization, dead-air removal in Retakes, working filler word cuts, and essential preset bugfixes.\n\n♦️ Auto Cut & Multi-Track Timeline Sync\n♦️ Intelligent Track Sync: Cutting silence now moves all unlocked tracks (titles, B-roll, music) along with your dialogue so your entire edit stays in sync.\n♦️ External Audio & Proxy Fix: Auto Cut analyzes the actual timeline mix—including external mics, merged clips, proxies, and clip speeds.\n♦️ Tail-Safe Cut Points: Cut points land strictly inside gaps without clipping word endings.\n♦️ Clean Link Handling: Unlinked audio stays unlinked, memory usage is halved, temporary files auto-purge, and waveforms stay sharp at all zoom levels.\n♦️ Error Fix: Fixed the \"flexBackupThen is not defined\" crash.\n\n♦️ Retakes & Filler Words\n♦️ Dead-Air Removal: Retake cuts now extend through the pause between a stumble and a restart.\n♦️ True Filler Word Removal: Cleanly deletes filler words from the timeline with accurate count reporting.\n\n♦️ AutoCamera & Presets\n♦️ Reliable Angle Switching: AutoCamera waits for cuts to complete before switching shots.\n♦️ Adjustment Layers & Effects: Generates true Premiere adjustment layers and fixes \"getVideoTrack is not a function\" preset errors.",
   "btnText": "Check Changelog",
   "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/Changelogs.json",
