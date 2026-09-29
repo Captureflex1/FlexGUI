@@ -1,8 +1,8 @@
 {
-  "id": "flex_ultimate_announcement_v2_1_8",
-  "title": "2.1.8",
-  "message": "♦️ **FLEX ULTIMATE V2.1.8 IS LIVE! (PREMIERE PRO)**\n\nVersion 2.1.8 makes the panel smoother and makes Auto Cut more reliable on slower machines.\n\n*(Install over your current version with your ZXP installer and restart Premiere Pro once to apply the update.)*\n\n♦️ **Smoother Panel**\n* **Tab Switching:** Only the tab you open is redrawn now, instead of the whole panel.\n* **No More Short Freezes:** Clicking back into Premiere Pro, or moving the mouse back onto the panel, no longer makes it hang for a moment.\n\n♦️ **Auto Cut Fix**\n* **Silences & Retakes Removed on Slower Machines:** Premiere can take several seconds to show new cuts on the timeline, and Auto Cut gave up after about 6 seconds, so the gaps stayed in. It now waits up to about 40 seconds. If the cuts still haven't appeared, it removes nothing and tells you, so one undo puts everything back.\n\n♦️ **Coming From An Older Version?**\n* This update also includes everything from 2.1.7: the redesigned Auto Captions tab and the Un-Nest fixes.",
+  "id": "flex_ultimate_announcement_v2_1_9",
+  "title": "2.1.9",
+  "message": "♦️ **FLEX ULTIMATE V2.1.9 IS LIVE! (PREMIERE PRO)**\n\nVersion 2.1.9 makes Auto Captions more accurate, adds Translate To English, and runs captions fully on your own machine.\n\n*(Install over your current version with your ZXP installer and restart Premiere Pro once to apply the update.)*\n\n♦️ **Auto Captions**\n* **No More Missing Sentences:** Music or noise under the voice no longer makes whole sentences disappear.\n* **Better Language Detection:** It listens to several parts of the clip, not just the first 30 seconds.\n* **Hinglish:** Comes out in Roman letters with English words kept in English, and is much more accurate.\n* **Translate To English:** Offline, with Large V3 or Medium.\n\n♦️ **Models**\n* **Shorter List:** Large V3 Turbo, Large V3 and Medium, in Auto Captions and in the Silence tab (Retakes and Filler Cleanup). If you had picked a removed model, it switches to one you already have. Nothing new downloads unless you choose to.\n* **Captions On Your Machine:** Flex AI cloud captions are off for now, so no credits are used. The Flex AI engine for Retakes is still there.",
   "btnText": "Check Changelog",
   "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/Changelogs.json",
-  "versionBelow": "2.1.8"
+  "versionBelow": "2.1.9"
 }
