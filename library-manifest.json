@@ -1,0 +1,1027 @@
+{
+ "v": 2,
+ "note": "Each file carries its own download url (GitHub release \"library-v1\" of Captureflex1/FlexGUI). \"mirror\" + path is the fallback the panel tries only when the url fails. Paths stay relative names for the local cache.",
+ "packs": [
+  {
+   "id": "camera-transitions",
+   "count": 55,
+   "bytes": 465612045,
+   "files": [
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_01.mogrt",
+     "bytes": 15179179,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_01.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_02.mogrt",
+     "bytes": 14326604,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_02.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_03.mogrt",
+     "bytes": 15001740,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_03.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_04.mogrt",
+     "bytes": 16934553,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_04.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_05.mogrt",
+     "bytes": 18092980,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_05.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_06.mogrt",
+     "bytes": 16694114,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_06.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_07.mogrt",
+     "bytes": 17273094,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_07.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_08.mogrt",
+     "bytes": 17242377,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_08.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_09.mogrt",
+     "bytes": 13627360,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_09.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_10.mogrt",
+     "bytes": 14104746,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_10.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_11.mogrt",
+     "bytes": 16943914,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_11.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_12.mogrt",
+     "bytes": 11187513,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_12.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_13.mogrt",
+     "bytes": 8841145,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_13.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_14.mogrt",
+     "bytes": 13194293,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_14.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_15.mogrt",
+     "bytes": 16413750,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_15.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_16.mogrt",
+     "bytes": 964113,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_16.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_17.mogrt",
+     "bytes": 1020166,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_17.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_18.mogrt",
+     "bytes": 1033615,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_18.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_19.mogrt",
+     "bytes": 980282,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_19.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_20.mogrt",
+     "bytes": 920915,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_20.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_21.mogrt",
+     "bytes": 928778,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_21.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_22.mogrt",
+     "bytes": 973413,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_22.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_23.mogrt",
+     "bytes": 1061361,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_23.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_24.mogrt",
+     "bytes": 990640,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_24.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_25.mogrt",
+     "bytes": 988384,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_25.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_26.mogrt",
+     "bytes": 917421,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_26.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_27.mogrt",
+     "bytes": 959447,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_27.mogrt"
+    },
+    {
+     "path": "camera-transitions/Horizontal/Camera Transition_Horizontal_28.mogrt",
+     "bytes": 896383,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Horizontal__Camera_Transition_Horizontal_28.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_01.mogrt",
+     "bytes": 14814071,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_01.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_02.mogrt",
+     "bytes": 14041740,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_02.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_03.mogrt",
+     "bytes": 14720074,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_03.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_04.mogrt",
+     "bytes": 16610008,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_04.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_05.mogrt",
+     "bytes": 17762811,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_05.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_06.mogrt",
+     "bytes": 16367923,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_06.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_07.mogrt",
+     "bytes": 16887255,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_07.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_08.mogrt",
+     "bytes": 14674364,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_08.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_09.mogrt",
+     "bytes": 13322465,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_09.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_10.mogrt",
+     "bytes": 13786342,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_10.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_11.mogrt",
+     "bytes": 16637581,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_11.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_12.mogrt",
+     "bytes": 10886680,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_12.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_13.mogrt",
+     "bytes": 7617673,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_13.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_14.mogrt",
+     "bytes": 12911529,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_14.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_15.mogrt",
+     "bytes": 16163133,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_15.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_16.mogrt",
+     "bytes": 877561,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_16.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_17.mogrt",
+     "bytes": 948922,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_17.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_18.mogrt",
+     "bytes": 924646,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_18.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_19.mogrt",
+     "bytes": 902451,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_19.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_20.mogrt",
+     "bytes": 865629,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_20.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_21.mogrt",
+     "bytes": 848189,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_21.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_22.mogrt",
+     "bytes": 888831,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_22.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_23.mogrt",
+     "bytes": 958872,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_23.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_24.mogrt",
+     "bytes": 920041,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_24.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_25.mogrt",
+     "bytes": 875065,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_25.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_26.mogrt",
+     "bytes": 850767,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_26.mogrt"
+    },
+    {
+     "path": "camera-transitions/Vertical/Camera Transition_Vertical_27.mogrt",
+     "bytes": 855142,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/camera-transitions__Vertical__Camera_Transition_Vertical_27.mogrt"
+    }
+   ]
+  },
+  {
+   "id": "hook-captions",
+   "count": 20,
+   "bytes": 138928231,
+   "files": [
+    {
+     "path": "hook-captions/Captions/Caption_01.mogrt",
+     "bytes": 6934388,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_01.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_02.mogrt",
+     "bytes": 6940065,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_02.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_03.mogrt",
+     "bytes": 6914099,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_03.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_04.mogrt",
+     "bytes": 6936919,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_04.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_05.mogrt",
+     "bytes": 6917257,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_05.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_06.mogrt",
+     "bytes": 6937338,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_06.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_07.mogrt",
+     "bytes": 6922792,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_07.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_08.mogrt",
+     "bytes": 6902902,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_08.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_09.mogrt",
+     "bytes": 6876800,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_09.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_10.mogrt",
+     "bytes": 6904969,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_10.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_11.mogrt",
+     "bytes": 6930749,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_11.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_12.mogrt",
+     "bytes": 6939977,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_12.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_13.mogrt",
+     "bytes": 6936464,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_13.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_14.mogrt",
+     "bytes": 6926923,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_14.mogrt"
+    },
+    {
+     "path": "hook-captions/Captions/Caption_15.mogrt",
+     "bytes": 6908716,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Captions__Caption_15.mogrt"
+    },
+    {
+     "path": "hook-captions/Hooks/Hook_01.mogrt",
+     "bytes": 6974227,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Hooks__Hook_01.mogrt"
+    },
+    {
+     "path": "hook-captions/Hooks/Hook_02.mogrt",
+     "bytes": 7033538,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Hooks__Hook_02.mogrt"
+    },
+    {
+     "path": "hook-captions/Hooks/Hook_03.mogrt",
+     "bytes": 7045643,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Hooks__Hook_03.mogrt"
+    },
+    {
+     "path": "hook-captions/Hooks/Hook_04.mogrt",
+     "bytes": 7016858,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Hooks__Hook_04.mogrt"
+    },
+    {
+     "path": "hook-captions/Hooks/Hook_05.mogrt",
+     "bytes": 7027607,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/hook-captions__Hooks__Hook_05.mogrt"
+    }
+   ]
+  },
+  {
+   "id": "text-animation",
+   "count": 40,
+   "bytes": 3976712,
+   "files": [
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_01.mogrt",
+     "bytes": 39375,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_01.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_03.mogrt",
+     "bytes": 71088,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_03.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_04.mogrt",
+     "bytes": 71507,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_04.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_18.mogrt",
+     "bytes": 71730,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_18.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_19.mogrt",
+     "bytes": 69305,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_19.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_20.mogrt",
+     "bytes": 39023,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_20.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_21.mogrt",
+     "bytes": 71231,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_21.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_29.mogrt",
+     "bytes": 104784,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_29.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_30.mogrt",
+     "bytes": 48435,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_30.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_45.mogrt",
+     "bytes": 104144,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_45.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_47.mogrt",
+     "bytes": 103625,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_47.mogrt"
+    },
+    {
+     "path": "text-animation/Elastic/Text Animation_Elastic_48.mogrt",
+     "bytes": 48095,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Elastic__Text_Animation_Elastic_48.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_01.mogrt",
+     "bytes": 37420,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_01.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_03.mogrt",
+     "bytes": 37543,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_03.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_04.mogrt",
+     "bytes": 37348,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_04.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_08.mogrt",
+     "bytes": 37158,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_08.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_09.mogrt",
+     "bytes": 37350,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_09.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_10.mogrt",
+     "bytes": 37229,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_10.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_12.mogrt",
+     "bytes": 46454,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_12.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_15.mogrt",
+     "bytes": 46399,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_15.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_16.mogrt",
+     "bytes": 46308,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_16.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_20.mogrt",
+     "bytes": 46375,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_20.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_21.mogrt",
+     "bytes": 46424,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_21.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_22.mogrt",
+     "bytes": 37442,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_22.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_23.mogrt",
+     "bytes": 37455,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_23.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_24.mogrt",
+     "bytes": 37438,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_24.mogrt"
+    },
+    {
+     "path": "text-animation/Basic/Text Animation_Basic_25.mogrt",
+     "bytes": 37490,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Basic__Text_Animation_Basic_25.mogrt"
+    },
+    {
+     "path": "text-animation/Neon/Text Animation_Neon_01.mogrt",
+     "bytes": 327486,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Neon__Text_Animation_Neon_01.mogrt"
+    },
+    {
+     "path": "text-animation/Neon/Text Animation_Neon_02.mogrt",
+     "bytes": 386092,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Neon__Text_Animation_Neon_02.mogrt"
+    },
+    {
+     "path": "text-animation/Neon/Text Animation_Neon_03.mogrt",
+     "bytes": 370368,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Neon__Text_Animation_Neon_03.mogrt"
+    },
+    {
+     "path": "text-animation/Neon/Text Animation_Neon_04.mogrt",
+     "bytes": 419969,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Neon__Text_Animation_Neon_04.mogrt"
+    },
+    {
+     "path": "text-animation/Neon/Text Animation_Neon_05.mogrt",
+     "bytes": 420399,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Neon__Text_Animation_Neon_05.mogrt"
+    },
+    {
+     "path": "text-animation/Neon/Text Animation_Neon_06.mogrt",
+     "bytes": 370773,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Neon__Text_Animation_Neon_06.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 01.mogrt",
+     "bytes": 27882,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_01.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 02.mogrt",
+     "bytes": 30200,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_02.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 03.mogrt",
+     "bytes": 30307,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_03.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 04.mogrt",
+     "bytes": 29801,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_04.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 05.mogrt",
+     "bytes": 54226,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_05.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 06.mogrt",
+     "bytes": 30593,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_06.mogrt"
+    },
+    {
+     "path": "text-animation/Typewriter/Text Animation_Typewriter 07.mogrt",
+     "bytes": 30441,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-animation__Typewriter__Text_Animation_Typewriter_07.mogrt"
+    }
+   ]
+  },
+  {
+   "id": "text-presets",
+   "count": 15,
+   "bytes": 87337101,
+   "files": [
+    {
+     "path": "text-presets/Box Frame.mogrt",
+     "bytes": 4956150,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Box_Frame.mogrt"
+    },
+    {
+     "path": "text-presets/Glow Spot.mogrt",
+     "bytes": 496321,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Glow_Spot.mogrt"
+    },
+    {
+     "path": "text-presets/Lower Third.mogrt",
+     "bytes": 512567,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Lower_Third.mogrt"
+    },
+    {
+     "path": "text-presets/Text Animation PRO.mogrt",
+     "bytes": 67587520,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Animation_PRO.mogrt"
+    },
+    {
+     "path": "text-presets/Text Box Preset.mogrt",
+     "bytes": 884187,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Box_Preset.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_01.mogrt",
+     "bytes": 1412480,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_01.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_02.mogrt",
+     "bytes": 1456607,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_02.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_03.mogrt",
+     "bytes": 1382538,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_03.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_04.mogrt",
+     "bytes": 1481784,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_04.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_05.mogrt",
+     "bytes": 1487347,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_05.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_06.mogrt",
+     "bytes": 1208760,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_06.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_07.mogrt",
+     "bytes": 1166214,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_07.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_08.mogrt",
+     "bytes": 1398612,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_08.mogrt"
+    },
+    {
+     "path": "text-presets/Text Preset_09.mogrt",
+     "bytes": 1394331,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Text_Preset_09.mogrt"
+    },
+    {
+     "path": "text-presets/Title Text.mogrt",
+     "bytes": 511683,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/text-presets__Title_Text.mogrt"
+    }
+   ]
+  },
+  {
+   "id": "transitions",
+   "count": 67,
+   "bytes": 8043266,
+   "files": [
+    {
+     "path": "transitions/Transition_01.mogrt",
+     "bytes": 413878,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_01.mogrt"
+    },
+    {
+     "path": "transitions/Transition_02.mogrt",
+     "bytes": 402195,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_02.mogrt"
+    },
+    {
+     "path": "transitions/Transition_03.mogrt",
+     "bytes": 400995,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_03.mogrt"
+    },
+    {
+     "path": "transitions/Transition_04.mogrt",
+     "bytes": 367035,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_04.mogrt"
+    },
+    {
+     "path": "transitions/Transition_05.mogrt",
+     "bytes": 400502,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_05.mogrt"
+    },
+    {
+     "path": "transitions/Transition_06.mogrt",
+     "bytes": 391324,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_06.mogrt"
+    },
+    {
+     "path": "transitions/Transition_07.mogrt",
+     "bytes": 325514,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_07.mogrt"
+    },
+    {
+     "path": "transitions/Transition_08.mogrt",
+     "bytes": 409287,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_08.mogrt"
+    },
+    {
+     "path": "transitions/Transition_09.mogrt",
+     "bytes": 350643,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_09.mogrt"
+    },
+    {
+     "path": "transitions/Transition_10.mogrt",
+     "bytes": 402199,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_10.mogrt"
+    },
+    {
+     "path": "transitions/Transition_11.mogrt",
+     "bytes": 378866,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_11.mogrt"
+    },
+    {
+     "path": "transitions/Transition_12.mogrt",
+     "bytes": 380563,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_12.mogrt"
+    },
+    {
+     "path": "transitions/Transition_13.mogrt",
+     "bytes": 400400,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_13.mogrt"
+    },
+    {
+     "path": "transitions/Transition_14.mogrt",
+     "bytes": 374629,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_14.mogrt"
+    },
+    {
+     "path": "transitions/Transition_15.mogrt",
+     "bytes": 386695,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_15.mogrt"
+    },
+    {
+     "path": "transitions/Transition_16.mogrt",
+     "bytes": 372750,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_16.mogrt"
+    },
+    {
+     "path": "transitions/Transition_17.mogrt",
+     "bytes": 39284,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_17.mogrt"
+    },
+    {
+     "path": "transitions/Transition_18.mogrt",
+     "bytes": 30617,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_18.mogrt"
+    },
+    {
+     "path": "transitions/Transition_19.mogrt",
+     "bytes": 24727,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_19.mogrt"
+    },
+    {
+     "path": "transitions/Transition_20.mogrt",
+     "bytes": 47872,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_20.mogrt"
+    },
+    {
+     "path": "transitions/Transition_21.mogrt",
+     "bytes": 22538,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_21.mogrt"
+    },
+    {
+     "path": "transitions/Transition_22.mogrt",
+     "bytes": 30008,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_22.mogrt"
+    },
+    {
+     "path": "transitions/Transition_23.mogrt",
+     "bytes": 34290,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_23.mogrt"
+    },
+    {
+     "path": "transitions/Transition_24.mogrt",
+     "bytes": 34763,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_24.mogrt"
+    },
+    {
+     "path": "transitions/Transition_25.mogrt",
+     "bytes": 39526,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_25.mogrt"
+    },
+    {
+     "path": "transitions/Transition_26.mogrt",
+     "bytes": 26366,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_26.mogrt"
+    },
+    {
+     "path": "transitions/Transition_27.mogrt",
+     "bytes": 21356,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_27.mogrt"
+    },
+    {
+     "path": "transitions/Transition_28.mogrt",
+     "bytes": 28844,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_28.mogrt"
+    },
+    {
+     "path": "transitions/Transition_29.mogrt",
+     "bytes": 34278,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_29.mogrt"
+    },
+    {
+     "path": "transitions/Transition_30.mogrt",
+     "bytes": 36500,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_30.mogrt"
+    },
+    {
+     "path": "transitions/Transition_31.mogrt",
+     "bytes": 42135,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_31.mogrt"
+    },
+    {
+     "path": "transitions/Transition_32.mogrt",
+     "bytes": 49739,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_32.mogrt"
+    },
+    {
+     "path": "transitions/Transition_33.mogrt",
+     "bytes": 68049,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_33.mogrt"
+    },
+    {
+     "path": "transitions/Transition_34.mogrt",
+     "bytes": 30473,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_34.mogrt"
+    },
+    {
+     "path": "transitions/Transition_35.mogrt",
+     "bytes": 30756,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_35.mogrt"
+    },
+    {
+     "path": "transitions/Transition_36.mogrt",
+     "bytes": 31797,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_36.mogrt"
+    },
+    {
+     "path": "transitions/Transition_37.mogrt",
+     "bytes": 30318,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_37.mogrt"
+    },
+    {
+     "path": "transitions/Transition_38.mogrt",
+     "bytes": 24178,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_38.mogrt"
+    },
+    {
+     "path": "transitions/Transition_39.mogrt",
+     "bytes": 29776,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_39.mogrt"
+    },
+    {
+     "path": "transitions/Transition_40.mogrt",
+     "bytes": 29949,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_40.mogrt"
+    },
+    {
+     "path": "transitions/Transition_41.mogrt",
+     "bytes": 29263,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_41.mogrt"
+    },
+    {
+     "path": "transitions/Transition_42.mogrt",
+     "bytes": 30840,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_42.mogrt"
+    },
+    {
+     "path": "transitions/Transition_43.mogrt",
+     "bytes": 34255,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_43.mogrt"
+    },
+    {
+     "path": "transitions/Transition_44.mogrt",
+     "bytes": 31867,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_44.mogrt"
+    },
+    {
+     "path": "transitions/Transition_45.mogrt",
+     "bytes": 28421,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_45.mogrt"
+    },
+    {
+     "path": "transitions/Transition_46.mogrt",
+     "bytes": 30997,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_46.mogrt"
+    },
+    {
+     "path": "transitions/Transition_47.mogrt",
+     "bytes": 19968,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_47.mogrt"
+    },
+    {
+     "path": "transitions/Transition_48.mogrt",
+     "bytes": 19736,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_48.mogrt"
+    },
+    {
+     "path": "transitions/Transition_49.mogrt",
+     "bytes": 19662,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_49.mogrt"
+    },
+    {
+     "path": "transitions/Transition_50.mogrt",
+     "bytes": 20073,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_50.mogrt"
+    },
+    {
+     "path": "transitions/Transition_51.mogrt",
+     "bytes": 28825,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_51.mogrt"
+    },
+    {
+     "path": "transitions/Transition_52.mogrt",
+     "bytes": 43675,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_52.mogrt"
+    },
+    {
+     "path": "transitions/Transition_53.mogrt",
+     "bytes": 35494,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_53.mogrt"
+    },
+    {
+     "path": "transitions/Transition_54.mogrt",
+     "bytes": 47428,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_54.mogrt"
+    },
+    {
+     "path": "transitions/Transition_55.mogrt",
+     "bytes": 44213,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_55.mogrt"
+    },
+    {
+     "path": "transitions/Transition_56.mogrt",
+     "bytes": 67204,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_56.mogrt"
+    },
+    {
+     "path": "transitions/Transition_57.mogrt",
+     "bytes": 24820,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_57.mogrt"
+    },
+    {
+     "path": "transitions/Transition_58.mogrt",
+     "bytes": 42160,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_58.mogrt"
+    },
+    {
+     "path": "transitions/Transition_59.mogrt",
+     "bytes": 34796,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_59.mogrt"
+    },
+    {
+     "path": "transitions/Transition_60.mogrt",
+     "bytes": 34790,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_60.mogrt"
+    },
+    {
+     "path": "transitions/Transition_61.mogrt",
+     "bytes": 139530,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_61.mogrt"
+    },
+    {
+     "path": "transitions/Transition_62.mogrt",
+     "bytes": 54161,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_62.mogrt"
+    },
+    {
+     "path": "transitions/Transition_63.mogrt",
+     "bytes": 33751,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_63.mogrt"
+    },
+    {
+     "path": "transitions/Transition_64.mogrt",
+     "bytes": 31602,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_64.mogrt"
+    },
+    {
+     "path": "transitions/Transition_65.mogrt",
+     "bytes": 55178,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_65.mogrt"
+    },
+    {
+     "path": "transitions/Transition_66.mogrt",
+     "bytes": 54340,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_66.mogrt"
+    },
+    {
+     "path": "transitions/Transition_67.mogrt",
+     "bytes": 30603,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v1/transitions__Transition_67.mogrt"
+    }
+   ]
+  }
+ ],
+ "mirror": "https://rpgooieipbrjzm9x.public.blob.vercel-storage.com/FLEX_LIBRARY_UPLOAD/library/"
+}
