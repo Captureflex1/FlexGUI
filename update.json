@@ -1,6 +1,6 @@
 {
   "version": "9.2.3",
-  "message": "NEW UPDATE AVALIABLE!",
+  "message": "A mandatory update is required. Please update to the latest version of Flex GUI Pro to continue.",
   "link": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.zxp",
-  "force_update": false
+  "force_update": true
 }
