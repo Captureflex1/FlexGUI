@@ -1,6 +1,6 @@
 {
   "version": "9.2.3",
-  "message": "Your'e far behind, Update to get the best out of FLEX.",
+  "message": "NEW UPDATE AVALIABLE!",
   "link": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.zxp",
-  "force_update": true
+  "force_update": false
 }
