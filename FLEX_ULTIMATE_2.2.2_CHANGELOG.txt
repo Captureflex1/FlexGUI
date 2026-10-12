@@ -1,0 +1,111 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.2  -  October 2026
+================================================================================
+
+AUTO CUT now cuts and removes the silences in one step, SMART SYNCHRONISE
+syncs your selected clips with a single click, ASSETS gets new template tabs
+that keep arriving without an update, and AUTO CAPTIONS can run on an NVIDIA
+graphics card. UN-NEST and NEST SEP,
+rebuilt: nests with Motion, Opacity or effects now come apart, clips land in
+order exactly where the nest was, your music and dialogue are never touched,
+and both are much faster on long timelines. Plus new tracks that go on top,
+and a few fixes.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your quick effects, presets, settings and downloaded templates are kept.
+
+NEW: MORE TEMPLATES IN ASSETS (ASSETS > PRESETS)
+- THREE NEW TABS: TEXT EFFECTS (34 templates in Bounce, Glow, Gradient, Slides
+  and More), COMMENT and FOLLOW. They are marked NEW.
+- NEW TEMPLATES ARRIVE BY THEMSELVES. When we add templates, they appear in
+  Assets with a NEW badge the next time you open Premiere Pro. No update to
+  install.
+- They download when you want them: Download, Download All, or double-click a
+  tile. A tile shows its preview once its template is on your computer.
+
+NEW: AUTO CAPTIONS ON YOUR NVIDIA GRAPHICS CARD (WINDOWS)
+- Auto Captions ran on the processor even on PCs with an NVIDIA graphics
+  card, because the standard Whisper install brings a processor-only engine.
+  The Auto Captions engine setup now has an NVIDIA GPU row: Use GPU downloads
+  the graphics-card engine once (about 2.5 GB), checks that it really runs on
+  your card, and captions then run on the GPU. Same captions, much faster.
+  Install / Fix Dependencies on such a PC does this by itself.
+- The caption log says whether it ran on the GPU or the processor. If the card
+  runs out of memory, the run finishes on the processor instead of stopping.
+- Mac: unchanged, captions run on the processor.
+
+CHANGED: ASSETS > PRESETS LOOK
+- The download bar no longer squeezes its text into a thin column over the
+  first templates. It sits above them, with the buttons underneath.
+- One accent colour: the selected category, NEW badges, counts and the zoom
+  slider follow the panel's green instead of red and blue.
+
+CHANGED: AUTO CUT (SILENCE & CUT)
+- CUT AND REMOVE IN ONE STEP. With REMOVE + RIPPLE, AUTO CUT used to cut the
+  silences, then scan the timeline again gap by gap before ripple-deleting
+  them, which took a long time on long clips. Now the removal follows the cuts
+  straight away as one step ("CUTTING + REMOVING"), and the timeline is read
+  once instead of once per gap. Ctrl+Z still takes the whole Auto Cut back in
+  one press.
+- REMOVE RETAKES gets the same speed-up.
+
+CHANGED: SMART SYNCHRONISE (GENERAL TAB)
+- ONE CLICK SYNCS. Select the clips to sync (for example the camera clip and
+  the separately recorded audio) and click SMART SYNCHRONISE: Flex lines them
+  up by their audio and opens the result as a new synced sequence. Your
+  original sequence is not changed. The button shows its progress, and a
+  second click cancels.
+- SHIFT-CLICK FOR OPTIONS. Shift-click opens the options panel, redesigned:
+  Sync by audio or Match properties, then the clips, the reference clip and
+  the options in numbered steps, with Preview and Create at the bottom.
+
+CHANGED: UN-NEST
+- NESTS WITH MOTION, OPACITY OR EFFECTS. These used to be left intact with
+  "Nest effects, motion or speed cannot be flattened faithfully". Now the
+  nest's Motion, Opacity and Volume are folded into the clips, and its effects
+  move to an adjustment layer above them (if your project has no Adjustment
+  Layer item yet, Flex makes one first).
+- STILL LEFT AS THEY ARE, WITH THE REASON: nests with a speed change or time
+  remapping, multicam nests, nests on locked tracks, and nests whose audio has
+  pan or effects.
+- IN ORDER, IN PLACE. The clips come out exactly where the nest was, in their
+  original order. If they would cover clips on the tracks above, Flex adds
+  empty video tracks just above the nest instead of asking.
+- SAFE. Nothing is written until every selected nest has been checked. If
+  anything goes wrong, the timeline is put back exactly as it was.
+- NO MORE "EXTRACTION FAILED" on nests with audio.
+- FASTER on long timelines: on a 3,000-clip test timeline it reads the
+  timeline about 24 times less.
+- THE BUTTON stays in the same place: dimmed with "select a nest" until a
+  nest is selected, then lit, with how many. It reads "working..." while it
+  runs.
+
+CHANGED: NEST SEP
+- YOUR AUDIO IS SAFE. Music or dialogue on the audio tracks under the
+  selected clips could be overwritten. It is no longer touched.
+- New nests are named "<your sequence> Nest 01", "Nest 02"... in timeline
+  order, and are selected when it finishes. The button shows what was made.
+- If some clips cannot be nested, it says which, and keeps the rest.
+- Much faster in big projects, and it can no longer pick up an older nest
+  left over from a deleted sequence.
+
+FIXED
+- SILENCE REMOVER AND AUTO CAPTIONS on some Premiere Pro installs stopped with
+  an error about JSON. They now work there too.
+- MAC. The panel re-checked every colour swatch each time anything in it
+  changed. It now does that only when you click a swatch.
+- NEW TRACKS ON TOP. When Freeze Frame, Paste or an FX & ADV RIGS tool needed
+  a new video track, Premiere inserted it as V2, pushing every track above it
+  up one, and added an empty audio track. New tracks now go on top, with no
+  extra audio track.
+- AUTO CAPTIONS SETUP now uses the Python you picked in Flex Product Manager.
+- LICENCE WATERMARK. The watermark read FLEX-ULT for everyone. It now shows
+  part of your own key.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.0.
+================================================================================
