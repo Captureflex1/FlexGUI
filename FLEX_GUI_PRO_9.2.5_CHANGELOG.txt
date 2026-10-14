@@ -1,0 +1,91 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.2.5  -  October 2026
+================================================================================
+
+Force Preview Render: one click fills After Effects' green bar for the whole
+work area and tells you how long it will take, so the comp can play back in
+real time. It can even render while you are away from the computer. Plus a
+quieter Autosave that keeps saving without popping up a message every few
+minutes.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets and saved expressions are kept.
+- Force Preview Render needs the free Flex Preview engine, a separate download
+  from our Discord (one zip for Mac and Windows):
+    Mac: drag FlexPreview.bundle into
+         /Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore
+    Windows: double-click Install Flex Preview.bat and allow it.
+  Then restart After Effects. Everything else in 9.2.5 works without it.
+
+NEW: FORCE PREVIEW RENDER (FX & ADV RIGS)
+- A new row under Comp Resizer. One click renders every frame of the active
+  comp's work area (or the whole comp) into After Effects' preview cache, the
+  green bar. You see frames done, speed and time left while it works, and you
+  can keep working between frames. Play When Done starts playback the moment
+  every frame is ready.
+- TIME BEFORE YOU START. After a comp has been rendered once, the window shows
+  how long the next render will take before you press the button.
+- SPEED. SMOOTH keeps After Effects fully responsive (slowest), FAST works in
+  short bursts so you can keep working with small pauses, MAX is the fastest
+  (After Effects pauses while it works).
+- RESOLUTION. Keep the comp's resolution, or switch it to Full, Half (about
+  4x faster) or Quarter (about 16x faster) for the render.
+- MEMORY. A slider sets how much memory the preview may take. Only the frames
+  that fit are rendered, so none of them drop out of the green bar again. When
+  they do not all fit, it tells you whether Half or Quarter resolution would
+  fit them, with a button to switch.
+- AUTO PREVIEW. Step away from the computer (no keyboard or mouse for 30
+  seconds, 1, 2 or 5 minutes) and Flex renders the active comp's work area for
+  you: "YO! You stepped away, so I'm rendering your preview". The moment you
+  are back it stops, says how much it finished, and everything it rendered
+  stays ready to play. On by default; switch it off in the Force Preview
+  window.
+- SHORTCUT. With the engine installed, Composition > Flex: Force Preview Render
+  works without opening the panel. Give it a key in Edit > Keyboard Shortcuts.
+- Without the engine the row is greyed out and links to our Discord, where the
+  engine is.
+- If a render finishes but the green bar stays empty, open Advanced in the
+  Force Preview window and turn on Hand Frames To The Cache Myself.
+
+CHANGED
+- AUTOSAVE, QUIETER. Autosave still saves on the same timer, with the same
+  backup versions, but the two messages it showed on every save ("Autosaving
+  project..." and "Autosave complete!") are gone. The Autosave pill at the top
+  of the panel flashes SAVED for a moment instead, or SKIPPED - RQ when the
+  Render Queue is busy. A save that really fails still shows its message.
+- While Auto-Save is on, the pill no longer turns red for the last 30 seconds
+  of the countdown, because there is nothing you need to do: it saves by
+  itself. With Auto-Save off, the red reminder to save stays.
+- Prefer the old messages? Alt+Shift+Click the Autosave pill to open Autosave
+  Settings and turn off Quiet Mode > Hide Pop-ups.
+- A project that has never been saved still opens the Save dialog when
+  Autosave comes round, because that is the only way it can be saved.
+
+NEW: HALFTONE REVEAL (SAAS EFFECTS > DOT REVEAL)
+- Reveal or hide a layer through a moving dot or pixel edge, using native
+  After Effects effects. Pick a centre, left, right, top or bottom reveal.
+- Control duration, easing, edge width, dot/pixel size and softness. Optional
+  pixelation, editable controls and a live preview in the panel.
+
+NEW: ADVANCED+ AND PROPERTY CLIPBOARD (FLEX SETTINGS)
+- Turn on Advanced+ below Layout Editor for compact creation and editing
+  tiles beside the anchor grid: Null, Adjustment, Solid, Camera, Light, Text,
+  Shape, Cut, Split, Fit, Center and Duplicate.
+- Create a shape sized to the selected layer, or an empty shape when no layer
+  is selected. The layout adapts to narrow panels.
+- Four Property Clipboard slots copy and paste transforms, effects, blending,
+  3D and motion blur. Keyframed properties receive a key at the playhead.
+
+FIXED
+- SPLIT handles eligible layers individually. Locked layers and layers outside
+  the playhead are skipped, so one unsplittable layer no longer stops the rest.
+- Long tooltips wrap and stay inside the panel instead of running off-screen.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- The Flex Preview engine is not inside this ZXP; it stays a separate
+  download from our Discord.
+================================================================================
