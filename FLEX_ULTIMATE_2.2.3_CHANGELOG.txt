@@ -1,0 +1,95 @@
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.3  -  October 2026
+
+SMART SYNCHRONISE is rebuilt and now really syncs: pieces of the same recording
+snap back to their exact frame, and different cameras and recorders are matched
+by their audio. AUTO CUT is faster and shows its progress step by step, REMOVE
+RETAKES transcribes first with your Auto Captions model, CAPTION STACK takes your
+own text, and AUTO CAPTIONS shows which model is working and how far it is.
+Plus template previews in Assets and a long list of fixes.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your quick effects, presets, settings and downloaded templates are kept.
+
+NEW: AUTO CUT SHOWS ITS PROGRESS (SILENCE & CUT)
+- A progress bar under AUTO CUT shows each step: backing up the sequence,
+  TRIMMING the gaps, a countdown "STARTING RIPPLE DELETE IN X S", then RIPPLE
+  DELETING and DONE. On a long timeline Premiere needs a moment before the cuts
+  can be removed; you now see that wait counting down instead of a frozen panel.
+- REMOVE RETAKES shows the same bar.
+
+NEW: REMOVE RETAKES TRANSCRIBES FIRST
+- Retakes now opens on TRANSCRIBE: the clip is transcribed with the model you
+  picked in Auto Captions, with a live progress line (downloading the model,
+  transcribing 45%, finishing), and the repeated takes are found in that
+  transcript.
+- HINDI AND HINGLISH: restart words like "phir se" and "dobara" are now
+  recognised.
+
+NEW: CAPTION STACK - CUSTOM TEXT
+- Type or paste your own text. If the clip has been transcribed, your words take
+  the timing of what was said; otherwise they are spread over the clip.
+- TRANSCRIBE SELECTED CLIP now uses the Auto Captions engine, shows its
+  progress, and tells you clearly when something goes wrong.
+
+NEW: AUTO CAPTIONS SHOWS WHAT IT IS DOING
+- The progress card names the model you picked ("Loading Whisper Large V3
+  Turbo") and shows what is really happening: downloading the model with size
+  and speed on first use, then "Transcribing... 50%" with how much audio is done.
+  It no longer sits at 30%.
+- CUSTOM WORDS: add names and words Whisper keeps getting wrong, and they are
+  spelled your way.
+- The model menu is ranked by accuracy. Newer speech engines are listed as
+  COMING SOON.
+
+NEW: TEMPLATE PREVIEWS IN ASSETS
+- Hover a template or sound to preview it: audio plays with its waveform, and
+  templates that include a preview video play it.
+- AUTOPLAY plays the previews in view by themselves; switch it off in the
+  toolbar.
+
+CHANGED: SMART SYNCHRONISE (GENERAL TAB)
+- PIECES OF THE SAME RECORDING are put back exactly by their source time, frame
+  accurate, with no audio guessing. Copies of the same moment go on their own
+  tracks, and pieces cut from each other continue on the same track.
+- DIFFERENT CAMERAS AND RECORDERS are matched by their sound, each against
+  everything already placed, and every match is double-checked on the waveform.
+  A recording it cannot match safely is reported, never placed at a wrong spot.
+- STEREO STAYS STEREO: one clip on one track, no more dozens of mono tracks.
+- ANY FRAME RATE: phone footage at 59.99 fps no longer stops it with "This
+  sequence has an unusual frame rate".
+- It says what it did: how many pieces, how many recordings, what was matched
+  by audio and what was skipped and why. Your original sequence is unchanged.
+
+CHANGED: AUTO CUT IS FASTER
+- Far fewer round trips to Premiere per cut, so long clips finish sooner. Same
+  cuts as before.
+
+CHANGED: AUTOCAMERA
+- Fixed several cases where camera switching did not apply, and two mics
+  recorded into one file are now handled when only one person talks in the
+  range you picked.
+
+CHANGED: GRAPH EDITOR
+- The curve library now sits beside the graph by default.
+
+CHANGED: SMOOTHER PANEL
+- Less work in the background while you edit, so Premiere Pro stays more
+  responsive.
+
+FIXED
+- FREEZE FRAME took the first frame of the timeline instead of the frame at the
+  playhead.
+- QUICK EFFECTS on a duplicated clip went onto the original clip below it.
+- IMPORTING FROM ASSETS could place the template on top of clips already on the
+  timeline. It now goes where there is room.
+- THE LIBRARY FOLDER went back to the default location after a restart.
+- GRAPH EDITOR could stay on "Reading the selected clip..." and then answer
+  APPLY with "Select a clip with keyframes in the timeline first".
+- WINDOWS: file and folder pickers use the standard modern Windows dialog.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.2.
