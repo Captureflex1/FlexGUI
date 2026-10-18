@@ -1,0 +1,73 @@
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.4  -  October 2026
+
+The MOTION TRACKER has a new engine that follows faces, cartoons and handheld
+shots far more reliably. CAPTION STACK gets stroke, drop shadow,
+colours and fonts, drawn into the captions so they look the same in Premiere.
+AUTO CAPTIONS opens five more speech engines and gets a RESET CACHE button, the
+text anchor point snaps to the visible text, and every FX & ADV RIGS page has a
+cleaner look.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your quick effects, presets, settings and downloaded templates are kept.
+
+NEW: MOTION TRACKER ENGINE (FX & ADV RIGS)
+- A new tracking engine. It follows animated characters, faces, handheld shots,
+  fast pans, zooms and rolls far more reliably. On a 2D-animated
+  dance where the old tracker lost the face after 9 frames, the new one follows
+  it to the last frame.
+- When the target is covered or leaves the frame, the tracker follows the shot
+  around it, marks those frames UNCERTAIN, and looks for the target again when it
+  comes back.
+- CORNER PIN: place the four corners in any order, including Premiere's own
+  Corner Pin order. A pin that slides out of the frame no longer sends its
+  corners flying.
+- Faster: Accurate now takes well under half the time it used to.
+- Paste, Stabilize and Smart keyframes work as before.
+
+NEW: CAPTION STACK STYLE
+- A STYLE card under Look: FONT (the look's own, Bold, Tall, Script, or any font
+  installed on your computer), LETTER CASE, TEXT and ACCENT colour, the look's
+  GLOW on or off, STROKE (width and colour) and DROP SHADOW (distance, blur,
+  opacity, angle and colour).
+- The style is drawn into the captions themselves. Caption Stack places captions
+  as images, so Premiere's text styling cannot change them; set it here and the
+  preview, the look thumbnails and the timeline all match.
+
+NEW: FIVE MORE SPEECH ENGINES IN AUTO CAPTIONS
+- Qwen3-ASR, Moonshine, NVIDIA Canary, AI4Bharat IndicConformer and SraVaani are
+  now in the model menu (they were COMING SOON). The first time you use one, it
+  sets itself up (a few minutes, plus the model download).
+- Moonshine is the fastest for English. For Hindi, IndicConformer and Qwen3-ASR
+  gave the best results in our tests.
+- IndicConformer and SraVaani are gated by their makers on Hugging Face: they need
+  a free Hugging Face account and access token the first time. The panel shows
+  the steps if the token is missing.
+- Commas and full stops stay attached to their word (some engines showed them as
+  words of their own), and Moonshine no longer repeats words.
+
+NEW: RESET CACHE (AUTO CAPTIONS)
+- Click the LOCAL chip at the top of Auto Captions, then RESET CACHE at the
+  bottom of Engine & models. It deletes Auto Captions' temporary files and its
+  saved Python check, then checks Python again. It asks first and lists what goes.
+- Your downloaded models and your settings are kept.
+
+CHANGED: TEXT ANCHOR POINT
+- The anchor grid on text and graphic clips now snaps to the text you can see
+  (its corners, edges and centre) instead of the corners of the whole frame.
+  Other clips work as before.
+
+CHANGED: FX & ADV RIGS LOOK
+- Motion Tracker, Caption Stack, Sequence Resizer and Organize Project have a
+  cleaner look: bigger labels, clearer choices, switches and sliders.
+
+FIXED
+- QWEN3-ASR could stop with "check_model_inputs() missing 1 required positional
+  argument" after its Python packages were updated. It now repairs itself the
+  next time you use it.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.3.
