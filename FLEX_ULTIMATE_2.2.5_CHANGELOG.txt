@@ -1,0 +1,24 @@
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.5  -  October 2026
+
+The extra speech engines in AUTO CAPTIONS now download from Flex's own mirror:
+no Hugging Face account or token needed.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your quick effects, presets, settings and downloaded templates are kept.
+
+CHANGED: SPEECH ENGINES DOWNLOAD WITHOUT A HUGGING FACE ACCOUNT
+- AI4Bharat IndicConformer, SraVaani and NVIDIA Canary download from the Flex
+  mirror the first time you use them. You no longer need a Hugging Face account
+  or access token for IndicConformer and SraVaani.
+- Every download is checked against the checksums built into the panel before it
+  is used. If the mirror cannot be reached, the engine falls back to Hugging Face
+  as before.
+- Sizes on first use: SraVaani 0.9 GB, IndicConformer 2.4 GB, Canary 3.7 GB.
+  Each copy includes its model card, licence and attribution.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.4.
