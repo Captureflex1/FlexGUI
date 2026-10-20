@@ -1,0 +1,184 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.2.6  -  October 2026
+================================================================================
+
+FLEX STUDIO (BETA) brings planar tracking, roto and stabilizing to After
+Effects: track in the new Flex Studio app, then attach the track to your
+layers from FX & ADV RIGS. Force Preview's engine now installs from inside the
+panel, AUTOCAPTIONS gets five more speech engines and a progress card that
+shows what it is really doing, and now gives every speech model only your
+audio and the language. The new UI SCALE setting makes the whole panel
+smaller or bigger. Plus a lighter panel and several fixes.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your theme, presets and saved expressions are kept. Three folder choices
+  may need picking once more (see FIXED).
+- Flex Studio (Beta) and the Flex Preview engine are not inside this ZXP. The
+  panel downloads them when you press INSTALL, so you need to be online:
+    Flex Studio (Beta) app: about 110-120 MB on a Mac, about 140 MB on Windows
+      (the INSTALL button shows the exact size)
+    Object Brush model in Flex Studio: about 190 MB, the first time you use it
+    Flex Preview engine for Force Preview Render: under 1 MB
+- The first time Flex puts a plug-in into After Effects (the Flex Studio Warp
+  effect or the Flex Preview engine), your computer asks for permission once:
+  your Mac password, or the Windows administrator prompt. Later installs and
+  updates do not ask again. The Flex Studio app itself needs no password.
+- After Effects only loads new plug-ins when it starts. After a plug-in
+  install, press RESTART AFTER EFFECTS (After Effects asks you to save first),
+  or LATER and restart it yourself.
+- WINDOWS: the in-panel installs and the Windows version of Flex Studio (Beta)
+  are brand new and have not been tested on a Windows PC yet. The Flex Studio
+  app is not code-signed yet, so Windows may show a warning when it first
+  opens. If an install fails, tell us on our Discord; the Flex Preview zip on
+  our Discord still works.
+- Everything else in 9.2.6 works without the Flex Studio and Flex Preview
+  downloads.
+
+NEW: FLEX STUDIO (BETA) (FX & ADV RIGS)
+- A new FLEX STUDIO (BETA) row in FX & ADV RIGS connects After Effects to Flex
+  Studio, a new tracking and roto app for Mac (Apple silicon and Intel) and
+  Windows.
+- IN THE APP: planar tracking, roto shapes, the OBJECT BRUSH (click the person
+  or object you want and it draws a roto shape around it; PROPAGATE follows it
+  through the shot), plus Insert, Remove, Stabilize, Camera Solve and Lens
+  calibration.
+- HOW IT WORKS: select the footage layer, open FLEX STUDIO (BETA) and press
+  OPEN. Flex Studio opens that layer over the comp's work area (up to 60
+  seconds per shot). Track there and press APPLY TO AE: the track arrives in
+  the panel by itself.
+- ATTACH TO LAYER, one undo step each:
+    TRANSFORM   position, rotation and scale follow the surface (onto a New
+                Track Null by default)
+    CORNER PIN  pins a layer onto the tracked surface
+    STABILIZE   holds the surface still in the shot
+    MASK        the roto shapes as After Effects masks, with feather and
+                add / subtract
+- MORE: CAMERA (a 3D camera from Flex Studio's camera solve), LENS (Optics
+  Compensation from the lens calibration), WARP (the Flex Studio Warp effect:
+  planar or mesh warp of a layer, with its own motion blur) and RENDER (brings
+  a render made in Flex Studio in above the shot, at the right time).
+- OPTIONS: keyframes on SMART (only the keys the motion needs), ALL, EVERY 2
+  or EVERY 5; motion blur; stabilize zoom; mask feather.
+- FIRST TIME: OPEN reads INSTALL FLEX STUDIO (BETA) with the download size. It
+  installs the app and the Flex Studio Warp effect, then offers to restart
+  After Effects. When a newer Flex Studio is out, a small UPDATE button appears
+  next to OPEN (close Flex Studio first).
+- If FFmpeg is not on your computer yet, Flex Studio downloads it once (about
+  18 to 27 MB) the first time it opens a clip.
+- Image sequences are not supported yet: render or import the shot as a movie
+  file.
+- THIS IS A BETA and the first public version. The After Effects exports
+  (especially masks, camera, lens and the Warp effect) have had very little
+  testing in real projects so far. Check each export before a final render,
+  and tell us on our Discord when something does not land where you expect.
+
+NEW: FORCE PREVIEW ENGINE INSTALLS FROM THE PANEL
+- Force Preview Render no longer needs a zip from Discord. Without the Flex
+  Preview engine, click the greyed Force Preview row and press DOWNLOAD &
+  INSTALL: the panel picks the Mac or Windows build, shows its size and puts
+  it in place.
+- Then restart After Effects (the window offers RESTART AFTER EFFECTS) and the
+  row is ready.
+- When a newer engine is out, UPDATE ENGINE appears in the Force Preview
+  window.
+- Already installed the engine by hand from our Discord? It keeps working. The
+  first time Flex installs a plug-in, it moves that copy into a new Flex
+  Plugins folder, so After Effects never loads it twice.
+
+NEW: FIVE MORE SPEECH ENGINES (AUTOCAPTIONS)
+- The Transcription Model menu is now ranked by published accuracy: Qwen3-ASR,
+  Moonshine, NVIDIA Canary, Whisper Large V3, Whisper Large V3 Turbo (still the
+  default) and Whisper Medium, plus an INDIA group ranked by Hindi accuracy:
+  AI4Bharat IndicConformer and SraVaani.
+- The first time you use a new engine, it sets itself up (a few minutes) and
+  downloads its model: Qwen3-ASR about 3.8 GB, Moonshine about 420 MB, Canary
+  about 3.9 GB, IndicConformer 2.4 GB, SraVaani 0.9 GB. Setting up also
+  installs the engine's own Python packages (up to about 1.5 GB more on disk).
+  Canary, IndicConformer and SraVaani come from the Flex mirror: no Hugging
+  Face account or token needed.
+- The new engines need Python 3.10, 3.11, 3.12 or 3.13 on your computer
+  (Whisper keeps using the Python it uses now). If there is none, AutoCaptions
+  tells you; install Python 3.12 from python.org.
+- Picking a model greys out the languages it cannot transcribe and moves the
+  language to one it can. You can choose the folder the engines are stored in.
+- Moonshine is the fastest for English; on a Mac it needs Apple silicon and
+  macOS 15 or newer. For Hindi, IndicConformer and Qwen3-ASR gave the best
+  results in our tests.
+- So far the new engines have only been tested on an Apple silicon Mac. If one
+  will not set up on your computer, tell us on our Discord; Whisper keeps
+  working as before.
+
+NEW: AUTOCAPTIONS SHOWS WHAT IT IS DOING
+- The progress card names the model you picked ("Loading Whisper Large V3
+  Turbo...") and shows what is really happening: the model download on first
+  use with size, speed and time left, then the percent transcribed and how much
+  of the audio is done ("3:00 of 6:00 of audio"). It no longer sits at
+  "Loading Whisper... 30%".
+
+NEW: UI SCALE (FLEX SETTINGS)
+- Flex Settings > UI SCALE makes the whole panel smaller or bigger, like the
+  display scale in Windows: one-click sizes from 75% to 150%, or anything from
+  60% to 150% on the Panel Size slider. Text, buttons, windows, their close
+  buttons and messages all scale together. 100% is the original size.
+- This is new: if a drag or a click lands off target at another size, set it
+  back to 100% and tell us on our Discord.
+
+CHANGED: AUTOCAPTIONS ADDS NO HINTS TO THE SPEECH MODELS
+- Every speech model now gets only your audio and the language: no example
+  sentences, hints or custom words from Flex. Flex no longer adds its own
+  example sentence to steer Whisper towards Roman Hinglish; that steering is
+  paused for now.
+- HINGLISH, or Hindi with Roman Script on: Whisper now writes the Hindi it
+  hears and AutoCaptions turns it into Roman letters afterwards. These
+  captions are likely to be less accurate than in 9.2.5: English words can
+  come out spelled the Hindi way ("imej", "klik"), and a stray character from
+  another alphabet can appear. Read them through before you render.
+- English, Hindi in Devanagari and every other language are transcribed the
+  same way as in 9.2.5.
+
+CHANGED: LIGHTER ON AFTER EFFECTS
+- Local AutoCaptions and local AI image generation now run at a lower
+  priority, so After Effects stays more responsive while they work. Same
+  results, and the same speed when nothing else is running.
+- Looping preview videos in the panel pause while you work in After Effects
+  and play again when you come back.
+- On a Mac, the Downloader's "Optimizing video for AE" step now decodes most
+  HEVC and VP9 videos on the Mac's video hardware, so it takes a lot less
+  processor time. Full-range, interlaced and 10-bit videos keep the old way,
+  so every file looks the same as before.
+- Less background work in the AutoCaptions window, and on Windows while a
+  caption job runs on the graphics card.
+
+CHANGED: WINDOWS FILE AND FOLDER PICKERS
+- On Windows, Flex's file and folder pickers now try the modern Explorer-style
+  window instead of the old "Browse For Folder" tree. It is new and has not
+  been tested on a Windows PC yet; whenever it cannot open, the old dialog
+  appears instead, exactly as before.
+
+FIXED
+- AUTOCAPTIONS could stop with "Error loading Whisper model: Numba needs NumPy
+  2.4 or less. Got NumPy 2.5." when installing Whisper or another Python
+  package had pulled in a newer NumPy. It now installs a NumPy that Whisper
+  accepts and runs the same job again (one time, needs internet). The repair
+  is made to work on Windows as well, but so far it has only been tested on a
+  Mac. Installing Whisper from the panel also picks a NumPy that works.
+- ANCHOR GRID did nothing, or showed "ExtendScript Error", on layers whose
+  Position or Anchor Point has keyframes (most caption and text animation
+  presets) or whose Position is split into X and Y. It now moves the anchor on
+  every keyframe, keeps rotated, scaled and 3D layers where they are, and names
+  any layer it could not move, such as a locked one.
+- LIBRARY FOLDERS: the Comp Saver library folder could go back to the default
+  after a restart or after you changed or reset the presets folder, and a newly
+  picked folder could be ignored in favour of the old one. Your choice now
+  stays.
+- Your Comp Saver Assets folder, Autosave location and Downloader save folder
+  are now kept through updates too. If this update resets one of them, pick it
+  once more; from now on it stays.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 9.2.5.
+================================================================================

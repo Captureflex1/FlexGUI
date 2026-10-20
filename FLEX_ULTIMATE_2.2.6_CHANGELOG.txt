@@ -1,0 +1,49 @@
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.6  -  October 2026
+
+AUTO CAPTIONS now gives every speech model only your audio and the language:
+no example sentences, hints or custom words from Flex. The "Numba needs
+NumPy" error in Auto Captions and Caption Stack now repairs itself, and the
+Motion Tracker in FX & ADV RIGS is
+now called FLEX STUDIO.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your quick effects, presets, settings and downloaded templates are kept.
+
+CHANGED: NO FLEX HINTS TO THE SPEECH MODELS (AUTO CAPTIONS)
+- Whisper and the other speech engines now get only your audio and the
+  language you picked. Flex no longer adds its own Hindi and Hinglish hints or
+  your custom words. The same goes for Remove Retakes and Caption Stack when
+  they transcribe.
+- ROMAN SCRIPT for Hindi: Whisper first writes Hindi in Hindi script, then the
+  captions are converted to Roman letters. Some words follow the Hindi
+  spelling (for example "bhee" instead of "bhi").
+- Hinglish, and Hindi with Roman Script on, are likely to be less accurate
+  than in 2.2.5, so check them before you export. English words can come out
+  spelled the Hindi way ("veediyo" for "video"). Hindi in Hindi script and
+  English captions came out the same as before in our tests.
+- With the language on Auto and Roman Script on, a clip Whisper hears as Urdu
+  now comes out in Urdu script. Pick Hindi or Hinglish to get Roman letters.
+- REMOVE RETAKES on Hindi and Hinglish clips can find fewer retakes than in
+  2.2.5, because words like "sorry" or "dobara" now come out in Hindi spelling
+  (for example "soree", "dobaara"). Check the list before you delete.
+- The CUSTOM WORDS field is hidden for now. Your saved list is kept as it is.
+
+CHANGED: MOTION TRACKER IS NOW FLEX STUDIO (FX & ADV RIGS)
+- The Motion Tracker row and page in FX & ADV RIGS are now called FLEX STUDIO.
+  Tracking, Corner Pin, Paste, Stabilize and Smart keyframes work exactly as
+  in 2.2.5.
+
+FIXED
+- AUTO CAPTIONS and CAPTION STACK could stop with "Numba needs NumPy 2.4 or
+  less. Got NumPy 2.5" after another install updated NumPy. They now install a
+  NumPy version Whisper accepts (once, needs internet) and carry on.
+- Install / Fix Dependencies now installs that NumPy version from the start.
+- The IndicConformer and SraVaani tooltips no longer say you need a Hugging
+  Face account or token. Since 2.2.5 both download from the Flex mirror.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.5.
