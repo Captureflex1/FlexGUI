@@ -1,0 +1,31 @@
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.7  -  October 2026
+
+AUTO CAPTIONS gets a FIX NUMPY button for the "Numba needs NumPy" error, and
+the automatic repair in Auto Captions and Caption Stack is stronger.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your quick effects, presets, settings and downloaded templates are kept.
+
+NEW: FIX NUMPY (AUTO CAPTIONS)
+- Open Auto Captions' ENGINE & MODELS: FIX NUMPY sits next to Reset cache.
+  Press it when Auto Captions or Caption Stack stops with a NumPy or Numba
+  error, such as "Numba needs NumPy 2.4 or less".
+- When an Auto Captions run stops on a NumPy problem, it now offers the repair
+  by itself.
+- The repair takes about a minute and needs internet. Your models and
+  settings stay.
+
+CHANGED: A STRONGER AUTOMATIC NUMPY REPAIR
+- The automatic repair could install a working NumPy while an old, broken copy
+  elsewhere on the computer kept loading first, so the error came back. It now
+  removes every NumPy copy Python can see, including half-removed leftovers,
+  installs the version Whisper needs, checks that it loads, then runs your
+  captions again. This covers Auto Captions and Caption Stack.
+- It works the same on Windows, but so far it has only been tested on a Mac.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.6.

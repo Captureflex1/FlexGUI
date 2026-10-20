@@ -1,0 +1,41 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.2.7  -  October 2026
+================================================================================
+
+UI SCALE is now sharp at every size, and AUTOCAPTIONS gets a FIX button for
+the "Numba needs NumPy" error, plus a stronger automatic repair.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets and saved expressions are kept.
+
+FIXED: UI SCALE LOOKED BLURRY
+- At any size other than 100% (Flex Settings > UI SCALE) the panel looked
+  blurry, most of all in the frosted windows like Flex Settings. After Effects
+  drew everything inside those windows at 100% and then stretched it. The
+  panel is now sharp at every size, with the same frosted look.
+- Back at 100% everything is exactly as before.
+
+NEW: FIX NUMPY (AUTOCAPTIONS)
+- A NUMPY REPAIR row with a FIX button sits under OpenAI Whisper in the
+  AutoCaptions setup. Press it when AutoCaptions stops with a NumPy or Numba
+  error, such as "Numba needs NumPy 2.4 or less".
+- When a caption run stops on a NumPy problem, AutoCaptions now offers the
+  repair by itself.
+- The repair takes about a minute and needs internet. Your models and
+  settings stay.
+
+CHANGED: A STRONGER AUTOMATIC NUMPY REPAIR
+- The automatic repair could install a working NumPy while an old, broken
+  copy elsewhere on the computer kept loading first, so the error came back.
+  It now removes every NumPy copy Python can see, including half-removed
+  leftovers, installs the version Whisper needs, checks that it loads, then
+  runs your captions again.
+- It works the same on Windows, but so far it has only been tested on a Mac.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 9.2.6.
+================================================================================
