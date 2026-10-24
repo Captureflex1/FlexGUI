@@ -1,0 +1,54 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.2.8  -  October 2026
+================================================================================
+
+The panel now speaks 132 LANGUAGES, there are new DEMON SLAYER THEMES with a
+sword that slashes the buttons you press, and a few layout and Windows fixes.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets and saved expressions are kept.
+
+NEW: THE PANEL IN 132 LANGUAGES
+- Flex Settings > LANGUAGE now lists 132 languages, with a search box. Pick
+  one and the whole panel switches: tabs, buttons, tooltips, messages.
+- Every language was translated by AI from the English panel, not word by
+  word. Names you see in your project (layer names, effect names) stay in
+  English so they still match After Effects.
+- The "what's new" popup is translated too, from this release on.
+
+NEW: DEMON SLAYER THEMES
+- Flex Settings > THEME SELECTOR has a new DEMON SLAYER group with 11 themes:
+  Giyu, Hinokami Kagura, Shinobu, Mitsuri, Rengoku, Zenitsu, Nezuko,
+  Muichiro, Inosuke, Tengen and Kokushibo.
+- Move the mouse over the panel and the theme's element follows it: water,
+  flames, lightning, butterflies, petals, mist and more. When the mouse
+  stops, it fades away.
+- Click a button and that character's sword slashes it. Keep the left button
+  held and it keeps slashing; hold it for about 2.5 seconds and it explodes.
+- Made to stay light: the effects only run while you move or click, and they
+  get lighter by themselves on slower computers. Switch AMBIENT EFFECTS off
+  in the Theme Selector to keep only the colours.
+
+CHANGED: FLAT BUTTONS IN EVERY THEME
+- Active and main buttons in the colour themes no longer use a shaded
+  top-to-bottom gradient. They are one flat colour with a soft glow, so they
+  look cleaner and read better.
+
+FIXED
+- The licence card and the "what's new" popup could open on top of each
+  other. They now never overlap, and the UPDATE badge no longer covers the
+  buttons at the top of the panel.
+- At UI SCALE 125% and 150%, some windows (like Flex Settings) could grow
+  taller than the panel, so their close button went out of view. Every window
+  now fits at every size.
+- Windows: AutoCaptions could say "THE NVIDIA DRIVER IS TOO OLD FOR GPU
+  CAPTIONS" on new cards and drivers (RTX 40 and 50 series). It now reads the
+  driver's CUDA support correctly and uses your GPU.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 9.2.7.
+================================================================================

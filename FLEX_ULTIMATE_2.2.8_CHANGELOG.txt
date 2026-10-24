@@ -1,0 +1,98 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.2.8  -  October 2026
+================================================================================
+
+CAPTION STACK captions are now EDITABLE Motion Graphics templates with a real
+editor, there is a new AUDIO STUDIO and MARK AUDIO BEATS, the panel speaks 132
+LANGUAGES, UI SCALE arrives in ULTIMATE, and there are new DEMON SLAYER THEMES.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your settings, theme and presets are kept.
+
+NEW: CAPTION STACK - EDITABLE CAPTIONS (FX & ADV RIGS > CAPTION STACK)
+- Captions are now placed as editable Motion Graphics templates (Output >
+  EDITABLE MOGRT, the new default in Premiere Pro 2026). After placing,
+  change any word, font, colour, size, position, glow, outline, box,
+  animation or timing in Premiere's Essential Graphics panel.
+- Output > IMAGES still places every word as a picture with the exact look,
+  if you prefer that.
+- The templates come with the panel. Nothing to download.
+
+NEW: CAPTION STACK EDITOR
+- The preview now shows the real frame of your video under each caption.
+- Drag a caption to move it, use the corner to resize and the top dot to
+  turn it, double-click a word to edit it. WHOLE CAPTION moves every word
+  together, ONE WORD moves a single word.
+- Choose whether a change applies to every caption or this caption only, and
+  save your layouts to reuse them.
+- 10 new GLOW looks: Big Wide, Bounce Lime, Candy, Horror, Hook, Typewriter,
+  Editorial, Sunset, Slide Yellow and Superb.
+
+NEW: AUDIO STUDIO (FX & ADV RIGS > AUDIO STUDIO)
+- Select an audio clip, pick an effect and press APPLY. Everything runs on
+  your computer.
+- 30 one-click presets: Underwater, Bass Boost, Room / Hall / Cathedral /
+  Plate reverb, Echo, Telephone, Radio, Megaphone, Robot, Chipmunk, Deep
+  Voice, Nightcore, Slowed + Reverb, 8D Audio, Lo-fi, Reverse and more. Stack
+  as many effects as you like, reorder them or switch one off.
+- Reverb keeps its tail: the sound rings out past the end of the clip, and it
+  is placed so nothing on your timeline gets overwritten.
+- Tools: Noise Remover, Voice Enhance, Loudness (-14 / -16 / -23 LUFS),
+  De-esser, De-click, De-clip, Hum Remover, Compressor, Limiter, EQ, Speed
+  and Pitch, Noise Gate, Extract Audio.
+- STEMS MAKER splits a song into vocals and music (or 4 stems). It downloads
+  its model the first time and asks you first.
+- PREVIEW lets you hear about 8 seconds with an Original / Processed switch.
+  The result goes on a free audio track and your original clip is muted,
+  never deleted.
+
+NEW: MARK AUDIO BEATS (FX & ADV RIGS > MARK AUDIO BEATS)
+- Select a music clip on the timeline and press MARK BEATS: Flex finds the
+  beats and adds sequence markers on them, so your cuts snap right to the
+  music.
+- Pick ALL hits, KICKS or SNARES, set the sensitivity, and mark every beat or
+  every 2nd or 4th beat.
+- REMOVE BEAT MARKERS clears only the markers Flex added. Runs on your
+  computer.
+
+NEW: THE PANEL IN 132 LANGUAGES
+- Settings > LANGUAGE now lists 132 languages, with a search box. Tabs,
+  buttons, tooltips and messages all switch. The "what's new" popup is
+  translated too, from this release on.
+
+NEW: UI SCALE
+- Settings > UI SCALE makes the whole panel bigger or smaller, like in
+  Flex GUI Pro. Every window fits at every size.
+
+NEW: DEMON SLAYER THEMES
+- Settings > THEME SELECTOR has a new DEMON SLAYER group with 11 themes:
+  Giyu, Hinokami Kagura, Shinobu, Mitsuri, Rengoku, Zenitsu, Nezuko,
+  Muichiro, Inosuke, Tengen and Kokushibo.
+- Move the mouse over the panel and the theme's element follows it: water,
+  flames, lightning, butterflies, petals, mist and more. When the mouse
+  stops, it fades away.
+- Click a button and that character's sword slashes it. Keep the left button
+  held and it keeps slashing; hold it for about 2.5 seconds and it explodes.
+- Made to stay light: the effects only run while you move or click, and they
+  get lighter by themselves on slower computers. Switch AMBIENT EFFECTS off
+  in the Theme Selector to keep only the colours.
+
+CHANGED: FLAT BUTTONS IN EVERY THEME
+- Active and main buttons in the colour themes are one flat colour with a soft
+  glow instead of a shaded gradient.
+
+FIXED
+- The licence card and the "what's new" popup could open on top of each
+  other. They now never overlap, and the UPDATE badge no longer covers the
+  buttons at the top.
+- Windows: Auto Captions could say "THE NVIDIA DRIVER IS TOO OLD FOR GPU
+  CAPTIONS" on new cards and drivers (RTX 40 and 50 series). It now reads the
+  driver's CUDA support correctly and uses your GPU.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.7.
+================================================================================
