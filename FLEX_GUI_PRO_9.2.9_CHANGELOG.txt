@@ -1,0 +1,47 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.2.9  -  October 2026
+================================================================================
+
+33 new ANIME THEMES join the Demon Slayer ones, the themes' mouse effects now
+really show inside After Effects, and the Theme Selector is one tidy dropdown.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets and saved expressions are kept.
+
+NEW: 33 ANIME THEMES
+- Flex Settings > THEME SELECTOR > PANEL THEME now has one group per anime:
+  Attack on Titan (Levi), Berserk (Guts), Black Clover (Asta), Bleach (Ichigo,
+  Hitsugaya), Chainsaw Man (Denji, Reze), Code Geass (Lelouch), Dandadan
+  (Okarun), Death Note (Kira), Dragon Ball (Goku), Frieren, Fullmetal
+  Alchemist (Edward), Hunter x Hunter (Killua, Kurapika, Hisoka), Jujutsu
+  Kaisen (Gojo, Sukuna), KonoSuba (Megumin), Mob Psycho 100 (Mob), My Hero
+  Academia (Bakugo, Deku, Todoroki), Naruto (Itachi, Minato), One Piece
+  (Luffy, Zoro, Law), One-Punch Man (Saitama), Re:Zero (Rem), Solo Leveling
+  (Jinwoo), Spy x Family (Anya) and Tokyo Ghoul (Kaneki).
+- Each character has their own look: what follows your mouse, the attack when
+  you click a button, what happens while you hold the left button, and the
+  blast after about 2.5 seconds of holding.
+- Just as light as the Demon Slayer themes: the effects only run while you
+  move or click. Switch AMBIENT EFFECTS off to keep only the colours.
+
+CHANGED: THEME SELECTOR
+- The Demon Slayer cards under PANEL THEME are gone, so Flex Settings is
+  shorter. Pick every theme from the PANEL THEME dropdown; it opens on the
+  theme you are using.
+- Kurama and Baryon now sit in the Naruto group.
+
+FIXED
+- The themes' mouse effects (water, flames, lightning and the rest) often did
+  not show inside After Effects, even with Optimised Mode off. The panel's own
+  busy moments, and a busy start, were taken for the theme lagging, so the
+  effects switched themselves off. Now, when your graphics card draws them
+  (most computers), those moments only make the effects lighter for a moment.
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- The 11 Demon Slayer themes look exactly as in 9.2.8.
+- Every other tab and tool works exactly as in 9.2.8.
+================================================================================
