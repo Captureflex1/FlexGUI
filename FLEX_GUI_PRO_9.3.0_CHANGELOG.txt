@@ -1,0 +1,171 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.3.0  -  October 2026
+================================================================================
+
+MAP RIGS 2.0 arrives with the Map desk, Quick looks and Flex Maps, and its
+extra tools finally load inside After Effects. AutoCaptions gets your script,
+Gemini 3.5 Transcribe, a whole-comp option, transcript reuse and an editable
+template look. Flex Studio (Beta) now downloads first and asks before it
+installs, and theme effects show again on many Windows PCs.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets and saved expressions are kept, with two
+  exceptions: AutoCaptions switches to Gemini 3.5 Transcribe once (see below;
+  you can pick your old engine again), and if Flex turned Optimised Mode on by
+  itself, it is checked once more and may switch back off (see Fixed).
+
+NEW: MAP RIGS 2.0
+- The Map desk, now the default layout: the map with its navigation strip,
+  search, a Features list and a status line in one view, and Create map in
+  the header (Finalize joins it once you pick a map). The older layouts are
+  still there: ⋯ > Preferences > Panel layout (Tool strip or Classic steps),
+  or ⋯ > Switch to Classic steps.
+- Search places and coordinates offline as you type (countries and major
+  cities); press Enter to search OpenStreetMap too.
+- Quick looks: pick one, fill in a short form (a country, a place or your
+  stops) and press Make it. The looks are Country Pop, Space Dive (from a
+  turning globe down onto the map), Trip Route, Range Rings, Strike Arc,
+  Advance Arrow, Hatch Zone and Explainer Desk. Most are built into the map
+  you are editing, so pick or create a map first. Place boxes work offline: a
+  country, about 60 big cities, the place picked on the map, or a lat, lon.
+- Undo, or Remove this look right after you make it, takes the look's layers
+  away. Space Dive leaves its dive map (and globe), Trip Route its camera keys
+  and Explainer Desk its map style and push-in: remove those by hand if you
+  don't want them.
+- Labels: Stick to Map pins a label to its place, and Clean labels thins them
+  out (Few, Balanced or Many). Always Sharp (Quick looks > Finish) marks the
+  soft stretches on the map layer and fixes them with Smart Finalize, one
+  image per zoom level; on the Finalize card the same tools are Check
+  sharpness and Smart (one image per level).
+- Free map styles, no key needed. Satellite now comes from Sentinel-2 (EOX):
+  sharp down to about city level, but softer than the old Esri satellite for
+  street-level close-ups, so use a vector style such as Flex Detailed up
+  close. Esri, CARTO, Mapbox, MapTiler and Stadia can't be added as custom
+  sources.
+- The map's bearing now turns the same way in After Effects as in the panel.
+- Open in Flex Maps (Map desk header, or ⋯ > Open in Flex Maps) opens MAP RIGS
+  in a bigger window, the Flex Maps (Beta) app, linked to After Effects:
+  select your map layer in After Effects to drive it from there, and keep
+  Flex GUI Pro open while you use it. If the app is not on your computer, it
+  downloads it first and asks before it installs.
+- Known: with both a bearing and a pan set, the view can drift off the comp
+  centre, so keep the bearing at 0 while panning until a fix lands. A map made
+  with a plain Create arrives unturned (bearing 0) until you move it once
+  with live sync on, and fly-throughs made before 9.3.0 still turn the old
+  way.
+- MAP RIGS 2.0 is new: if the Map desk doesn't suit your panel, Tool strip and
+  Classic steps are one setting away. If something looks wrong in your comp,
+  please tell us on Discord.
+
+FIXED: MAP RIGS' EXTRA TOOLS NOW LOAD
+- Since 9.2.4, MAP RIGS' extra tools (live sync, map styles, labels, 3D,
+  Finalize and the rest) did not load inside After Effects: the panel looked
+  for them with a path After Effects does not give out. They load now.
+
+NEW: AUTOCAPTIONS - GEMINI 3.5 TRANSCRIBE
+- A cloud engine, now the recommended one, selected once for everyone. It
+  uploads your audio to Flex AI, uses Flex AI credits and needs internet.
+- To keep captioning on your computer for free, pick your Whisper model again
+  under Transcription Model; your choice is then kept.
+- Translate To needs Whisper (Large V3 or Medium): with Gemini 3.5 Transcribe
+  the captions stay in the language you spoke.
+- When the caption server is busy, the progress card shows how long to wait
+  and your place in line, and counts down. Your captions start by themselves;
+  Cancel takes you out of the line.
+
+NEW: AUTOCAPTIONS - YOUR SCRIPT
+- A "Your script" field under Language. Paste the script you read (or load a
+  text file) and the captions take its spelling and wording wherever you said
+  those words, so names and brands come out the way you wrote them.
+- What you really said usually wins: a clearly different word stays as you
+  said it, ad-libs are kept, and common opposites (before/after, on/off) and
+  different numbers are not swapped in. Words that look alike, and numbers you
+  say as words, can still take the script's version, so check those captions.
+- If the script does not match the recording, it is not used and the panel
+  tells you so. It is not applied to translated captions.
+
+NEW: AUTOCAPTIONS - EDITABLE TEMPLATE
+- Style & Editor > STYLE > OUTPUT: choose Text layers (as before) or Editable
+  template.
+- Editable template: pick one of 10 Glow looks, an animation, fade out, 1-4
+  words per caption, size, height and arrangement. Each caption becomes a
+  template layer you can restyle later in Essential Properties.
+- Needs After Effects 2026 (26.0) or newer, with the project's expression
+  engine set to JavaScript (File > Project Settings > Expressions; the panel
+  tells you if it is not).
+
+CHANGED: AUTOCAPTIONS
+- Nothing to caption picked? When no layer is selected and the Source media box
+  is empty, the panel asks whether to caption the whole composition. It mixes
+  every audible footage layer and captions from the start of the comp (muted,
+  precomp, time-remapped, reversed and missing-footage layers are skipped;
+  press Log on the progress card to see how many, and why). The question only
+  comes while the Source media box is empty; once it shows a file (after
+  Detect Selected, Browse or an earlier run), close and reopen the panel to
+  empty it.
+- Captioning the same audio again with the same settings reuses the transcript:
+  no waiting, no upload, no credits used. Tick "Transcribe again" (under More
+  options) for a fresh one.
+- A simpler tab: the less used settings (Roman script, gaps, Transcribe again)
+  sit under More options, and the engine note sits under the Transcription
+  Model row, which is no longer squeezed.
+
+CHANGED: FLEX STUDIO (BETA) - DOWNLOAD, THEN INSTALL
+- FX & ADV RIGS > FLEX STUDIO (BETA): when the app is not on your computer, the
+  button now reads DOWNLOAD FLEX STUDIO (BETA) with its size (it was INSTALL
+  FLEX STUDIO (BETA)). It downloads the app, then asks "Install it now?"
+  (Install / Not now).
+- The app goes into Applications (Mac) or your Programs folder (Windows) and
+  needs no password. Its After Effects effect, Flex Studio Warp, comes with it:
+  the first time a Flex effect goes in, your computer asks once (your Mac
+  password, or OK in the Windows administrator prompt), and After Effects loads
+  it after a restart (RESTART AFTER EFFECTS, or LATER).
+- The UPDATE chip downloads and asks the same way.
+
+NEW: FLEX STUDIO (BETA) 2.0.0-beta.2 (the app)
+- Workspaces across the top: PRO (everything), TRACK, ROTOSCOPE and COLOR
+  GRADING.
+- COLOR GRADING brings the Flex STUDIO grading tools into the app and grades the
+  clip you have open. Save Grade keeps the grade with that clip; to use it in
+  After Effects, export it as a .cube LUT and apply that LUT.
+- The tool keys can follow After Effects: Edit > Preferences > KEY SHORTCUTS,
+  set KEYS to AFTER EFFECTS.
+- Clips open at once: the app is usable while the rest of the clip is still
+  being read.
+- OPEN now also takes a precomp, an adjustment layer (with the layers under
+  it), a solid, a text or a shape layer, as it looks in the comp. The window
+  opens straight away while After Effects sends the frames (32-bit projects
+  render a movie first).
+
+FIXED
+- Theme effects (trails, button effects) were missing on many Windows PCs.
+  - The first-run hardware check could switch Optimised Mode on by itself on
+    ordinary Windows computers. Those are checked once more and get the effects
+    back, unless they really are below what After Effects needs (less than
+    16 GB of RAM, a 4-thread processor, or no graphics acceleration); those
+    stay in Optimised Mode, which you can turn off in Flex Settings.
+  - With Windows animation effects off, the anime themes now run a lighter
+    version (a short swing on each click, no cursor trail) instead of nothing.
+  - In Flex Settings, a new line under Ambient Effects says what is holding the
+    effects back, with a TURN OFF OPTIMISED MODE button when that is the reason.
+- The language search said "Search 133 languages"; it is 132.
+
+NEW: OPTIONAL LOCATION FOR LICENCE PROTECTION
+- The panel asks once whether you allow it to send this computer's location
+  (or, when your system can't give one, roughly your city from your internet
+  connection), to protect your licence: to spot one key used from far-apart
+  places at the same time. It is optional: "No thanks" keeps every feature
+  working.
+- Change your mind any time: Flex Settings > PRIVACY. Turning it off also
+  deletes what was stored for your licence and computer.
+- Kept for 12 months, then deleted. Never sold, and never shared with anyone
+  else: our hosting provider only stores it for us, and we would hand it over
+  only if the law requires it. Details: captureflex.in/privacy
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 9.2.9.
+================================================================================

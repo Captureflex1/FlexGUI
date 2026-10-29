@@ -1,6 +1,6 @@
 {
-    "version": "9.2.9",
-    "message": "UPDATE v9.2.9 AVAILABLE",
-    "link": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.zxp",
-    "force_update": false
+  "version": "9.3.0",
+  "message": "UPDATE v9.3.0 AVAILABLE",
+  "link": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.zxp",
+  "force_update": false
 }

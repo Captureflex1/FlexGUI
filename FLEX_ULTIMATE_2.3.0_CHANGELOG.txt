@@ -1,0 +1,160 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 2.3.0  -  October 2026
+================================================================================
+
+Caption Stack moves into AutoCaptions with per-word styles, line layouts,
+word motion and caption sounds. UN-NEST and blend modes work on Premiere 26.5,
+AUTO CUT is one press, Audio Studio is tidier, and Flex Studio (Beta) opens
+your clip from the panel.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once (the timeline fixes load when Premiere starts).
+- Your settings, presets, library and saved styles are kept, with two
+  exceptions: AutoCaptions switches to Gemini 3.5 Transcribe once, and Retakes
+  switches to FAST · LARGE V3 TURBO once (see below). You can pick your old
+  engine again in both.
+
+NEW: ANIMATED CAPTIONS INSIDE AUTOCAPTIONS
+- The AutoCaptions tab now reads Captions | Animated | Editor, with Word Pop and
+  Transcript under More. Animated is the Caption Stack, right in the tab
+  (FX & ADV RIGS > Caption Stack opens it there too).
+- Word style: click a word in the preview and give it its own fill, stroke,
+  box and shadow colours, its own font and a finish (Flat, Shine or Glow).
+  Copy and paste a style, give it to the whole caption, or reset it. With All
+  captions picked it styles the word in that place in every caption (every
+  hero word, every first small word, and so on), not the same word wherever
+  you say it. Pick This caption to change only the caption on screen; those
+  styles are cleared when you load new words or change Words per group. Hero
+  word still makes any word the big word of its caption.
+- Line layouts: Stack, Over (small words above the hero word), Under, Beside
+  and Line (every word on one line), for one caption or all of them.
+- Motion per word: Fade, Pop, Bounce, Rise, Drop, From left, From right, Type,
+  Flash, Shake or Blur in, with a strength setting. Press the play button in
+  Animated's Editor card to preview it.
+- Word styles and word motion reach the timeline with the Images output (the
+  Output card starts on Editable MOGRT on Premiere 2026; one click switches
+  to Images).
+- Caption sounds: Pop, Tick or Swoosh on each caption or each word, placed on
+  a free audio track.
+
+NEW: AUTOCAPTIONS - GEMINI 3.5 TRANSCRIBE
+- A cloud engine, now the recommended one, selected once for everyone. It
+  uploads your audio to Flex AI, uses Flex AI credits and needs internet.
+- To caption offline for free, pick a Whisper engine again; your choice is
+  then kept. Translate To needs Whisper: with Gemini 3.5 Transcribe the
+  captions stay in the language you spoke.
+- When the caption server is busy, the progress card shows how long to wait
+  and your place in line, and counts down. Your captions start by themselves;
+  Cancel takes you out of the line.
+
+NEW: AUTOCAPTIONS - YOUR SCRIPT
+- A "Your script" field under Language. Paste the script you read (or load a
+  text file) and the captions take its spelling and wording wherever you said
+  those words, so names and brands come out the way you wrote them.
+- What you really said usually wins: a clearly different word stays as you
+  said it, ad-libs are kept, and common opposites (before/after, on/off) and
+  different numbers are not swapped in. Words that look alike, and numbers you
+  say as words, can still take the script's version, so check those captions.
+- If the script does not match the recording, it is not used and the panel
+  tells you so. It is not applied to translated captions.
+- It works with Generate in Captions. For animated captions, generate in
+  Captions first, then press Last Auto Captions in Animated (Animated's own
+  Transcribe does not use the script).
+
+CHANGED: AUTOCAPTIONS
+- Nothing selected, and no clip in the Source card yet? The panel asks whether
+  to caption the whole timeline. It mixes every unmuted audio track and
+  captions from the start of the sequence. Audio inside nested sequences is
+  not included: un-nest or render those first. Once the Source card shows a
+  clip (after Detect, Browse or a run), Generate captions that clip again;
+  close and reopen the panel to get the whole-timeline question back.
+- Finished captions are also saved next to your project, in a "Flex Captions"
+  folder (in Documents > Flex Captions while the project is not saved yet),
+  and IMPORT CAPTIONS uses that copy, so captions no longer go offline when
+  you reopen Premiere.
+- Captioning the same audio again with the same settings reuses the transcript:
+  no waiting, no upload, no credits used. Tick "Transcribe again" (under More
+  options) for a fresh one.
+- A simpler tab: the less used settings sit under More options.
+
+CHANGED: AUTO CUT, RETAKES AND THE TIMELINE CARDS
+- AUTO CUT is one press: select a clip and, if it has not been analysed yet,
+  AUTO CUT analyses it itself, then cuts. For a whole sequence, press ANALYZE
+  SEQUENCE first, then AUTO CUT. Dragging a FINE TUNE value now moves the gaps
+  too (before, the number changed but AUTO CUT still cut the old gaps).
+- Retakes now finds a line you cut short and then started again, and no longer
+  adds "Thank you." or "Thanks for watching" over room tone.
+- Retakes now opens on FAST · LARGE V3 TURBO (a one-time switch). It also
+  moves Retakes off TRANSCRIBE or FLEX AI · CLOUD, even if you picked one
+  yourself; pick it again if you want it back. MEDIUM or LARGE V3 picked for
+  Retakes is kept. The first scan downloads the model (about 1.6 GB) if it is
+  not on your computer yet.
+- The General TRANSFORM card and UN-NEST button, Audio Studio's clip line and
+  the Source card in Mark Audio Beats follow your timeline selection by
+  themselves (no Refresh needed).
+
+CHANGED: AUDIO STUDIO
+- Six sub-tabs instead of one long page: PRESETS, EFFECTS, CLEAN UP, LEVELS,
+  TIME & PITCH and STEMS. Every effect has one place to add it, and one bar at
+  the bottom holds the clip, Preview and the main button.
+- STEMS shows a "Last split" list: each stem and the track it was placed on.
+
+CHANGED: LIBRARY AND ASSETS
+- The Library now lives in Nest Saver (NEST DECK | LIBRARY) with a cleaner
+  layout: search, sort, + IMPORT, categories and a selection bar only while
+  something is selected. The Assets tab keeps Presets.
+
+NEW: FLEX STUDIO (BETA) FROM PREMIERE
+- FX & ADV RIGS > Flex Studio: Open in Flex Studio works on a video clip (not a
+  nest, title, still or reversed clip). It launches the app at once while the
+  panel reads its own frames in the background. In the app, APPLY TO PREMIERE
+  sends the track back to the Track card, ready for Paste tracking or
+  Stabilize.
+- When the app is not on your computer, the button reads DOWNLOAD FLEX STUDIO
+  (BETA) with its size. One click downloads it, then asks "Install it now?"
+  (Install / Not now). It goes into Applications (Mac) or your Programs folder
+  (Windows): no password needed.
+- If an older Flex Studio is already installed (for example from Flex GUI Pro),
+  an UPDATE button appears beside Open: older versions cannot send a track
+  back to Premiere.
+- The app (2.0.0-beta.2) has PRO, TRACK, ROTOSCOPE and COLOR GRADING workspaces,
+  and clips open at once.
+
+FIXED
+- UN-NEST refused every nest on Premiere 26.5 ("both the nest and the clip use
+  a blend mode"), refused nests with sound, and could report "Premiere did not
+  move" a clip it had moved. All three work again on 26.5, and NEST SEP too.
+- Blend modes on Premiere 26.5: a light leak set to Screen turned back to
+  Normal as soon as you selected the clip. Blend modes now stay, and UN-NEST
+  carries them over (Premiere Pro in English; with Premiere in another
+  language a blend mode Flex sets can still go back to Normal for now).
+- The AUTOSAVE chip sat on a red "0:00" in Premiere. It now shows when the
+  project was last saved and turns red only after a failed save; Save and Flex
+  Auto-Save save the Premiere project directly.
+- The Caption Stack editor showed a black preview with no reason. It now says
+  why there is no picture (no transcript yet, or no video under the captions).
+- Theme effects (trails, button effects) were missing on many Windows PCs.
+  With Windows animation effects off, the anime themes now run a lighter
+  version (a short swing on each click, no cursor trail) instead of nothing,
+  and a graphics card that reads slow while the panel is starting no longer
+  gets its effects switched off as if it had no GPU.
+- The language search said "Search 133 languages"; it is 132.
+
+NEW: OPTIONAL LOCATION FOR LICENCE PROTECTION
+- The panel asks once whether you allow it to send this computer's location
+  (or, when your system can't give one, roughly your city from your internet
+  connection), to protect your licence: to spot one key used from far-apart
+  places at the same time. It is optional: "No thanks" keeps every feature
+  working.
+- Change your mind any time: Flex Settings > PRIVACY. Turning it off also
+  deletes what was stored for your licence and computer.
+- Kept for 12 months, then deleted. Never sold, and never shared with anyone
+  else: our hosting provider only stores it for us, and we would hand it over
+  only if the law requires it. Details: captureflex.in/privacy
+
+UNCHANGED
+- Licensing, activation and every link work exactly as before.
+- Every other tab and tool works exactly as in 2.2.9.
+================================================================================
