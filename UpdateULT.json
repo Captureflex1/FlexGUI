@@ -1,6 +1,7 @@
 {
   "version": "2.3.0",
   "message": "UPDATE v2.3.0 AVAILABLE",
-  "link": "https://flex-downloads.captureflex-in.workers.dev/flex-ultimate/2.3.0/FlexUltimate.zxp",
-  "force_update": false
+  "link": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/FlexUltimate.zxp",
+  "force_update": false,
+  "cdn_link": "https://flex-downloads.captureflex-in.workers.dev/flex-ultimate/2.3.0/FlexUltimate.zxp"
 }
