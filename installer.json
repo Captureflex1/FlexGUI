@@ -1,0 +1,24 @@
+{
+  "version": "2.5.0",
+  "message": "New Fix everything button on the Fix tab: one click sets Python 3.9 and repairs Auto Captions, Flex AI and your Adobe settings. Flex Product Manager also keeps itself up to date from here on.",
+  "force_update": false,
+  "downloads": {
+    "mac-arm64": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.Product.Manager-2.5.0-arm64.dmg",
+    "mac-x64": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.Product.Manager-2.5.0-x64.dmg",
+    "win": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.Product.Manager.Setup.2.5.0.exe"
+  },
+  "checksums": {
+    "mac-arm64": {
+      "sha256": "6b9be41f469a1dfe3d2d40957e7f585f3717702f6ec65e5bf45801450815fe9a",
+      "size": 119512245
+    },
+    "mac-x64": {
+      "sha256": "5bcf233ba6bf7ba1e8f0c8a222294b8827bbd1193f0c95b0f78d72f7ae90f14f",
+      "size": 124460031
+    },
+    "win": {
+      "sha256": "bb418995b223f2d6aeaaf3c6a5c6d77a014b046e21e44a18e3fb5ed8e8f447e6",
+      "size": 103970709
+    }
+  }
+}
