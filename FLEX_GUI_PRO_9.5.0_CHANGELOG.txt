@@ -1,0 +1,131 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.5.0  -  November 2026
+================================================================================
+
+Edit Mode becomes a dock you build your panel with. Text Moments, named Shape
+Tools and typed values in Graph Editor 2.0 join the panel. MAP RIGS now opens
+in the MapRigs 2.0 app with an After Effects style workspace, and Flex Studio
+reaches 1.0.0.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets, saved expressions and curves are kept.
+- The map no longer runs inside the panel. The MAP RIGS tab now opens the
+  MapRigs app and offers the download if it isn't on your computer.
+- MapRigs and Flex Studio are not code-signed on Windows yet, so Windows may
+  show a SmartScreen warning.
+- New interface text stays in English until the next translation pass.
+
+NEW: EDIT MODE AS A DOCK
+- Settings > Layout Editor > Edit Mode. Arrange the panel on a dot grid with 59
+  modules from all ten tabs.
+- Drag a module and its neighbours move out of the way. Resize from any corner
+  or edge, and the buttons reflow to fit.
+- Add modules from a gallery with search and thumbnails.
+- Keep three layouts on 1, 2 and 3, with Undo and Redo (5 steps) and RESET to go
+  back to the original arrangement.
+- For each module: lock, fill height, stick to bottom, frame, size, direction,
+  columns, and show only on chosen tabs.
+- For the whole dock: snap, grid density, spacing, corners, frames, starter
+  layouts, and a layout code to copy and paste.
+- A docked tool keeps updating while its tab is closed.
+- MAP RIGS and Flex Glass Track Shape stay in their own tabs.
+
+NEW: TEXT MOMENTS (Text > SaaS)
+- Select Word: words build in, a selection box opens under a word and a menu
+  pops up above it.
+- Word Roll: the last word rolls through a list and lands in your accent colour
+  with a glow.
+- Tap Swap: a touch dot taps the text and it scrambles into new words.
+- Circle Letters: letters scatter, hand-drawn circles draw around them, then
+  they snap back.
+- Fly In Scatter: letters fly in from scattered spots with blur.
+
+NEW: SHAPE TOOLS (Shapes > SHAPE TOOLS)
+- Create and Playground are a named list with a one-line description for each
+  tool. A List / Grid switch remembers your choice.
+- Stroke dashes and Trim path are one Stroke & trim section, with a live preview
+  and readout on each card.
+
+NEW: GRAPH EDITOR 2.0
+- Click any parameter number and type it. Enter applies, Esc cancels, arrows
+  nudge, Shift nudges by 10, Tab moves to the next one.
+- Saved curves show in ejected windows, and a curve saved in one window appears
+  in the others.
+- DEF, BASE or MINE stays selected after a restart.
+
+NEW: THEMES
+- Six Awakened Eyes themes: Eclipse, Clockwork, Prism, Viper, Moth and Abyss.
+  Original eye designs whose iris evolves through three stages.
+- Holiday themes start by themselves only on the default look. Otherwise you get
+  a Try it / No thanks notice, and turning one off is remembered for that
+  holiday that year. Settings > Theme has a switch: Holiday themes on their day.
+- New holiday looks: Christmas garland and snow (24 to 26 Dec), Halloween bats
+  and embers, Friendship Day hearts (first Sunday of August).
+
+NEW: MAPRIGS 2.0
+- The MAP RIGS tab has OPEN MAP RIGS 2.0 (status, your comp and its maps, download
+  or update) and IMPORT OPENED MAP RIGS, which links an app that is already open.
+- One map per comp: if the comp has a Flex Map, Create uses it. LAUNCH ANOTHER
+  INSTANCE allows a second one.
+- After Effects style docking for 8 panels. Any panel can be its own window on a
+  second screen. Workspaces: Default, Classic, Animation, Map Focus, Side by Side
+  and 2 Screens. Save your own or lock one.
+- An After Effects style timeline with keyframes on Anchor Point, Position,
+  Scale, Rotation and Opacity, plus Z Position and X and Y Rotation for 3D.
+- Parent & Link with a pick whip, Track Matte, one layer stack you drag to
+  reorder, and A P S R T U as in After Effects.
+- Flex Transform Null, a Maps layer, and layer effects: Drop Shadow, Tint, Fill,
+  Glow, Gaussian Blur, Brightness & Contrast, Hue/Saturation.
+- Graph Editor 2.0 with your GUI Pro curves.
+- AUTOSYNC writes timeline key edits to the selected map in After Effects, in one
+  undo step. What was already sent is undone in After Effects.
+- 27 map effects: War, Front lines, Travel, Weather and Highlights, with 17 to 35
+  controls each, handles on the map and keyframes for Position, Rotation, Size
+  and Opacity. They use After Effects' built-in effects, with no sound. War
+  effects show a notice first.
+- A Flags tab with 270 flags and 51 US state flags: Fill Wave, Pole Flag or Badge.
+- 236,830 towns and places as you type, offline (GeoNames). Deep search looks
+  further online. Some towns have no outline in OpenStreetMap and stay a point.
+- Every country in an A-Z list, a Borders point-of-view control (base map style
+  lines don't follow it yet), and a map menu at the pointer (right-click or hold
+  Tab).
+- Text layers, 3D objects (GLB, glTF, OBJ, FBX, STL, PLY; the comp switches to
+  Advanced 3D), drop or paste pictures, SVG, video, GeoJSON, KML and GPX, and
+  Export Video (H.264 MP4 or PNG sequence).
+- Known: fill and stroke colours and flag values have no keyframes yet.
+
+NEW: FLEX STUDIO 1.0.0
+- Out of beta. Your sessions, models and macOS permissions carry over, and the
+  update removes the beta. Installing it in the same folder replaces the older
+  standalone Flex STUDIO grading app.
+- Studio Link: OPEN in FX & ADV RIGS puts the Flex STUDIO effect on the layer and
+  links it. Every Save Grade then shows there, with no Apply press. It needs the
+  Flex STUDIO effect 1.1.0: FX & ADV RIGS > FLEX STUDIO installs or updates it. A
+  copy in the old folder is moved, which asks for your password once. An effect
+  you graded by hand is left alone.
+- Object Brush: SAM 2.1 Fast is the default on computers with a GPU path (about 8
+  FPS against 0.9 before, measured on an Apple M5 with 24 GB). Hover lights up the
+  object under the pointer. MODEL menu: SAM 2.1 Fast, SAM 2.1 and SAM 3 (about a 1
+  GB download, needs 16 GB of RAM, recommended from 24 GB with a GPU).
+- COLOR GRADING > ADJUSTMENT, laid out like Lumetri Color: Basic Correction,
+  Creative, Curves, Color Wheels, HSL Secondary and Vignette.
+- The Flex STUDIO effect renders on the GPU in After Effects on Mac (a 4K frame
+  went from 180-414 ms to 86-96 ms on that same computer). Windows stays on the CPU.
+- Frames read faster on Mac, about 1.75x for 4K HEVC.
+- Your panel theme comes along when a session is opened from the panel.
+
+FIXED
+- AutoCaptions no longer stops with "The caption template file is missing" on
+  Editable template output.
+- The location privacy card no longer asks again on later launches.
+- The old licence box no longer shows over the panel on a slow launch.
+- Holiday themes no longer paint over the theme or colour you picked.
+- Flex Studio: a pen shape no longer disappears when you press V or pick another
+  tool. With 3 or more points it becomes a new layer.
+
+UNCHANGED
+- Your licence, credits and saved work. Everything not listed here works as it
+  did in 9.3.0.

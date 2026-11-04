@@ -1,0 +1,99 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 3.0.0  -  November 2026
+================================================================================
+
+The Assets tab gets 1,596 new templates that play on hover before you download,
+search across every tab and Import MOGRT. SS To Premiere comes over from GUI Pro,
+and Flex Studio reaches 1.0.0.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once (the timeline fixes load when Premiere starts).
+- Your settings, presets, library and saved styles are kept, with one exception:
+  Retakes moves to Gemini 3.5 Transcribe once (see below). You can pick another
+  engine again.
+- Flex Studio is not code-signed on Windows yet, so Windows may show a SmartScreen
+  warning.
+- New interface text stays in English until the next translation pass.
+
+NEW: ASSETS TAB
+- 1,596 new templates. Added to existing tabs: Text Presets 194, Text Animation
+  166, Hook & Captions 20, Transitions 5.
+- 11 new tabs: Infographics 940 (34 groups), Instagram Stories 77, Social Media
+  Elements 53, Match Cuts 31, Lower Thirds 27, Titles & Documentary 25, YouTube
+  Subscribe 20, Instagram Posts & Promo 10, Slideshows 10, Counters 9, Messages &
+  Notifications 9.
+- Each new template shows its picture and plays on hover before it is on your
+  computer. Autoplay runs up to 16 tiles on screen, and stops while your pointer
+  is outside the panel so Premiere stays free.
+- Download only the group you have open: Flags alone is 256 templates and 1.4 GB,
+  instead of the whole tab. The toast shows each template's file size.
+- Search every template in every tab by name, group, tab or file name. A whole
+  tab or group by that name is a one-click chip.
+- Import MOGRT: add your own files or a whole folder, or drop them on the grid.
+  Flex keeps a copy under My Templates and renders a preview. Rendering needs
+  After Effects and ffmpeg on this computer. A template made in Premiere keeps its
+  picture and says why.
+- Right-click a downloaded template: Render preview, Show the file.
+- A SLOTS mark shows which templates take your own images or video. Select the
+  clip on the timeline and drag your media onto them in Properties or Essential
+  Graphics. Example: in Slideshows, Carousel Background is only a colour, and the
+  Carousel Scenes take 12 to 36 images or videos.
+- Tabs stay loaded, so going back to one is quick and keeps your scroll position.
+- The tabs sit in a sidebar or along the top: two icons beside AUTOPLAY switch
+  them, and your choice is remembered.
+- Tile names sit under the picture instead of covering it, and Light Leak no
+  longer crops its videos.
+
+NEW: SS TO PREMIERE (FX & ADV RIGS)
+- GUI Pro's SS To AE comes to Premiere. A screenshot becomes an animated sequence.
+- It builds a new bin and a new sequence at the screenshot's size, with each
+  element on its own track, animated with Motion and Opacity keys. Choose a limit
+  of 30, 60 or 90 tracks; small neighbouring elements share a track.
+- Import AI / PSD and Reset Animation stay in the After Effects version.
+
+CHANGED
+- Organize Project: new option, on by default, Leave my own bins and imported
+  folders alone. Turning it off warns you first. The two older ORGANIZE PROJECT
+  buttons now open the FX & ADV RIGS page.
+- Retakes moves to Gemini 3.5 Transcribe once. It uploads the clip's audio, uses
+  Flex AI credits and needs internet. Pick another engine and your choice sticks.
+  If the cloud run fails, it says why and offers FAST AI · LARGE V3 TURBO on your
+  computer.
+- FX & ADV RIGS: Flex Studio and Motion Tracking are now two rows. A track sent
+  back from Flex Studio lands on Motion Tracking.
+- Curve editor: click any parameter number and type it. DEF, BASE or MINE stays
+  selected after a restart.
+- Six new Awakened Eyes themes: Eclipse, Clockwork, Prism, Viper, Moth and Abyss.
+
+NEW: FLEX STUDIO 1.0.0
+- Out of beta. Your sessions, models and macOS permissions carry over, and the
+  update removes the beta. Installing it in the same folder replaces the older
+  standalone Flex STUDIO grading app.
+- Studio Link: Open in Flex Studio puts the Flex STUDIO effect on the clip and
+  links it. Every Save Grade then shows there, with no Apply press. It needs the
+  Flex STUDIO effect 1.1.0: FX & ADV RIGS > Flex Studio installs or updates it, then
+  restart Premiere Pro. A copy in the old folder is moved, which asks for your
+  password once. An effect you graded by hand is left alone.
+- Object Brush: SAM 2.1 Fast is the default on computers with a GPU path (about 8
+  FPS against 0.9 before, measured on an Apple M5 with 24 GB). Hover lights up the
+  object under the pointer. MODEL menu: SAM 2.1 Fast, SAM 2.1 and SAM 3 (about a 1
+  GB download, needs 16 GB of RAM, recommended from 24 GB with a GPU).
+- COLOR GRADING > ADJUSTMENT, laid out like Lumetri Color: Basic Correction,
+  Creative, Curves, Color Wheels, HSL Secondary and Vignette.
+- In Premiere the Flex STUDIO effect stays on the CPU, with a faster path on Mac.
+- Frames read faster on Mac, about 1.75x for 4K HEVC.
+- Your panel theme comes along when a session is opened from the panel.
+
+FIXED
+- Smart Synchronise now syncs recordings made on two devices apart in a room, such
+  as an iPhone video and an iPad voice memo.
+- The location privacy card no longer asks again on later launches.
+- The old licence box no longer shows over the panel on a slow launch.
+- Flex Studio: a pen shape no longer disappears when you press V or pick another
+  tool. With 3 or more points it becomes a new layer.
+
+UNCHANGED
+- Your licence, credits and saved work. Everything not listed here works as it
+  did in 2.3.0.
