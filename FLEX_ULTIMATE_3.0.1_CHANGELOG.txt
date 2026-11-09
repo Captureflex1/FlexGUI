@@ -1,0 +1,69 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 3.0.1  -  November 2026
+================================================================================
+
+Mouse & Macros gives your mouse buttons their own jobs in Premiere Pro, and the
+AI tab becomes a chat that can also hand work to Claude Code or Antigravity.
+Templates made in After Effects 2026 get a compatible copy on older Premiere.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your settings, theme, presets and downloaded templates are kept.
+- Mouse & Macros on Mac needs one permission: allow "Flex Mouse" in System
+  Settings > Privacy & Security > Accessibility. The Allow button in the window
+  takes you there.
+- New interface text stays in English until the next translation pass.
+
+NEW: MOUSE & MACROS (FLEX SETTINGS > MOUSE & MACROS)
+- Give your mouse buttons their own jobs in Premiere Pro: the wheel click, back,
+  forward and any extra button. Macs read up to 32 buttons. Windows reads five;
+  extra buttons work there through the keys your mouse's own app assigns them.
+- Click a button on the mouse picture and pick a keyboard shortcut, a Flex
+  button, a script, a script file or a macro.
+- Gesture button: hold it and move, scroll, or press another button.
+- Macros: a row of shortcuts, Flex buttons, scripts and waits, run from a
+  button, a gesture or their own hotkey.
+- Ready to use: Back is Undo, Forward is Redo. Hold Back and scroll to zoom the
+  timeline, or move to step frames and jump between edits.
+- Buttons only do their job while Premiere Pro is in front.
+
+NEW: THE AI TAB AS A CHAT
+- A calm chat: your messages and the replies in one column, suggestions to
+  start, and one box for text and the AI you want.
+- Claude Code and Antigravity talk like a normal chat, on your own accounts. The
+  panel installs them and signs you in without the Terminal, and they work in
+  Premiere Pro through Flex. Pick the model from a menu.
+- Gemini CLI and Any AI: type it roughly and Flex turns it into a clear prompt
+  with your open sequence and selection, ready to paste.
+- Flex AI, the built-in assistant on your credits, stays the default and now
+  runs on Gemini 3.5. Older saved model choices that needed a key of your own
+  now use Flex AI too.
+
+NEW: FLEX AGENTS (AI TAB > AGENTS)
+- Let Claude Code, Gemini CLI, Antigravity or any app that speaks MCP use
+  ULTIMATE and Premiere Pro: read the open sequence, run changes and press Flex
+  buttons.
+- Off until you switch it on. One click adds it to each app, and only apps on
+  this computer that hold its key can connect.
+
+CHANGED
+- Assets and Caption Stack: on Premiere Pro 2025 and earlier, templates made in
+  After Effects 2026 now get a compatible copy before they are placed. They used
+  to fail with "Unknown error while loading the Motion Graphics template". If
+  one still will not load on your version, tell us on Discord.
+- Assets: when Premiere refuses a template, the message now says so instead of
+  "added at the playhead".
+
+FIXED
+- Downloads handed to Flex Downloader keep the section you chose with Download
+  a section, instead of downloading the whole video.
+- BG Remover no longer crashes on Mac. It now skips Core ML, which caused the
+  crash, so very large images can take a little longer.
+- AutoCaptions: cloud captions on Python 3.9 no longer say "Could not reach the
+  Flex server". They use your Mac's certificates when Python has none.
+
+UNCHANGED
+- Your licence, credits and saved work. Everything not listed here works as it
+  did in 3.0.0.

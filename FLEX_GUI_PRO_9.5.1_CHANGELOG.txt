@@ -1,0 +1,104 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.5.1  -  November 2026
+================================================================================
+
+FX Reveal brings eleven transitions to SaaS Effects, all driven by one slider.
+The Particle Simulator turns a layer into dust that a null pushes around, free.
+Mouse & Macros gives your mouse buttons their own jobs, and the AI tab becomes a
+chat that can also hand work to Claude Code or Antigravity.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme, presets, saved expressions and curves are kept.
+- Mouse & Macros on Mac needs one permission: allow "Flex Mouse" in System
+  Settings > Privacy & Security > Accessibility. The Allow button in the window
+  takes you there.
+- The Particle Simulator is a separate effect you install from its row. The
+  first Flex effect you ever install asks for your Mac password once, and After
+  Effects needs a restart to load it.
+- New interface text stays in English until the next translation pass.
+
+NEW: FX REVEAL (FX & ADV RIGS > SAAS EFFECTS)
+- Eleven transitions for any layer: Tile Flip 3D, Domino 3D, Blinds 3D, Mosaic
+  Push 3D, Shatter In, Pixel Dissolve, Glitch Slices, Vortex, Turbulent Flow,
+  Plasma Burn and Lightning.
+- Appears or Disappears, starting at the playhead. The whole transition runs off
+  one "FX Reveal" slider with two keyframes: move or re-ease them to retime it.
+- The 3D tiles take Tiles across, a Tilt and the side they come from. Energy
+  colour fills the plasma rim and the lightning. Glow on or off.
+- Each look plays as a live preview in the panel before you apply it.
+- Built from After Effects' own effects, nothing to install. The last frame is
+  your layer exactly as it was.
+
+NEW: PARTICLE SIMULATOR (FX & ADV RIGS) - FREE
+- Turns a layer into particles, about 500,000 at 1080p. A "Particle Control"
+  null pushes, swirls and scatters them, and they settle back on their own.
+  Scale the null to change the radius.
+- Looks: Dust Push, Swirl, Stream, Explode, Magnet, Assemble and Jelly, with
+  return time, bounce, dust glow, density, and 3D depth from brightness or AI
+  depth.
+- A native effect for Mac and Windows, installed and updated from the row.
+  Free for every GUI Pro user.
+
+NEW: MOUSE & MACROS (FLEX SETTINGS > MOUSE & MACROS)
+- Give your mouse buttons their own jobs in After Effects: the wheel click, back,
+  forward and any extra button. Macs read up to 32 buttons. Windows reads five;
+  extra buttons work there through the keys your mouse's own app assigns them.
+- Click a button on the mouse picture and pick a keyboard shortcut, a Flex
+  button, a script, an After Effects menu command, a script file or a macro.
+- Gesture button: hold it and move, scroll, or press another button.
+- Macros: a row of shortcuts, Flex buttons, scripts, menu commands and waits,
+  run from a button, a gesture or their own hotkey.
+- Ready to use: Back is Undo, Forward is Redo. Hold Back and scroll to zoom the
+  timeline, or move to step frames and keyframes.
+- Buttons only do their job while After Effects is in front.
+
+NEW: THE AI TAB AS A CHAT
+- A calm chat: your messages and the replies in one column, suggestions to
+  start, and one box for text, images and the AI you want.
+- Claude Code and Antigravity talk like a normal chat, on your own accounts. The
+  panel installs them and signs you in without the Terminal, and they work in
+  After Effects through Flex. Pick the model from a menu.
+- Gemini CLI and Any AI: type it roughly and Flex turns it into a clear prompt
+  with your open comp and selection, ready to paste.
+- Flex AI, the built-in assistant on your credits, stays the default and now
+  runs on Gemini 3.5.
+
+NEW: FLEX AGENTS (AI TAB > AGENTS)
+- Let Claude Code, Gemini CLI, Antigravity or any app that speaks MCP use GUI Pro
+  and After Effects: read the open comp, run changes as one undo step, press Flex
+  buttons, apply your saved expressions and eases, and check the result with a
+  snapshot.
+- Off until you switch it on. One click adds it to each app, and only apps on
+  this computer that hold its key can connect.
+
+CHANGED: FORCE PREVIEW
+- RECOMMENDED FOR THIS COMPUTER: sizes After Effects' disk cache from your free
+  space (more than 200 GB free: half of it, up to 2 TB) and tests Multi-Frame
+  Rendering on your own comp, turning it on only where it is faster. APPLY
+  RECOMMENDED does both. The disk cache size applies from the next start.
+- Move the playhead (on by default): the playhead hops across the frames that
+  are ready, then goes back where it was.
+- Memory Auto picks a safe amount for your RAM, with a warning above it.
+
+FIXED
+- The panel no longer freezes after two pastes in a row.
+- Mac: with the panel focused, Space plays the preview, Cmd+Z and Shift+Cmd+Z
+  undo and redo in After Effects, and Cmd+V over PASTE IMAGE pastes your image.
+- Command Mode: commands with quotes or other special characters in a name or
+  text (shapes, text layers, rename, effects) no longer fail.
+- BG Remover no longer crashes on Mac. It now skips Core ML, which caused the
+  crash, so very large images can take a little longer.
+- Halftone Reveal no longer shows "This project contains expression errors",
+  and the transition runs.
+- Text Properties: the colour swatches open the colour picker again.
+- AutoCaptions: cloud captions on Python 3.9 no longer say "Could not reach the
+  Flex server". They use your Mac's certificates when Python has none.
+- Force Preview no longer says "The comp is no longer in the project" after you
+  switch comps.
+
+UNCHANGED
+- Your licence, credits and saved work. Everything not listed here works as it
+  did in 9.5.0.
