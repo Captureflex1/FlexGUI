@@ -1,0 +1,60 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.5.2  -  November 2026
+================================================================================
+
+Force Preview now checks its own work. After the render it goes through the
+cache, renders again any frame that dropped out, and tells you plainly when
+After Effects cannot hold them all. And the stuttering "zombie" sound of a
+preview that is not in real time is gone: After Effects mutes it instead.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Update the engine too. Open FX & ADV RIGS > FORCE PREVIEW RENDER: the window
+  says "Flex Preview 1.4.0 is out". Press UPDATE ENGINE, then restart After
+  Effects. The cache check needs the new engine. No zombie audio and the disk
+  space warning work without it.
+- Your settings, theme, presets, saved expressions and curves are kept.
+- The new text is in English until the next translation pass.
+
+NEW: NO ZOMBIE AUDIO (FORCE PREVIEW)
+- When a preview cannot keep up, After Effects plays the sound in broken,
+  stuttering pieces. With No zombie audio on, After Effects stays silent until
+  the preview is in real time, then plays clean sound.
+- On by default. It switches on the first time you press Render preview or
+  APPLY RECOMMENDED, and a note tells you once.
+- It is After Effects' own setting, "Mute Audio When Preview Is Not Real-time"
+  (Preferences > Previews), so it also applies when you press Space without
+  Force Preview. Switch it off in the Force Preview window: No zombie audio.
+
+NEW: FORCE PREVIEW CHECKS THE CACHE (ENGINE 1.4.0)
+- After the last frame, Force Preview goes through the range once more. Frames
+  that dropped out of After Effects' cache during the render are rendered
+  again, then it checks a second time before it says READY TO PLAY.
+- This fixes the case where it said done, but Space still stuttered on the
+  first seconds: those frames had been pushed out while the rest rendered.
+- When After Effects cannot hold every frame, the window says about how many do
+  not fit and why (memory full, or the cache drive too full), instead of saying
+  everything is ready.
+- If your computer runs out of memory during a render, Force Preview stops,
+  keeps what it rendered and tells you.
+
+NEW: DISK SPACE WARNING (RECOMMENDED FOR THIS COMPUTER)
+- After Effects stops saving preview frames to disk when the cache drive is
+  nearly full (10 GB free by default). From then on, frames that leave memory
+  are lost and the preview stutters.
+- The Recommended card now warns you when you are within 10 GB of that limit
+  and shows how much is free. Free up space, or empty the cache with Edit >
+  Purge > All Memory & Disk Cache.
+
+GOOD TO KNOW
+- With little free memory (several Adobe apps open), a cached preview can still
+  drop below real time for a moment. With No zombie audio on you hear a short
+  silence instead of stutter.
+- For long comps, render the part you are reviewing: set the work area with B
+  and N, or lower the resolution to Half.
+
+UNCHANGED
+- Your licence, credits and saved work. Everything not listed here works as it
+  did in 9.5.1.
