@@ -1,0 +1,44 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.5.3  -  November 2026
+================================================================================
+
+Morph Maniac morphs one shape, text or logo into another inside the Shape tab,
+and the AI tab's agents can listen, read a waveform and wait for your OK.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme and presets are kept.
+- New interface text stays in English until the next translation pass.
+
+NEW: MORPH MANIAC (SHAPE > MORPH MANIAC)
+- Morph a shape layer, text, an Illustrator, SVG or PDF layer, or masks into
+  another one. The result is a normal shape layer with path keyframes.
+- Both ends stay exact: the first frame is your first shape, the last frame is
+  your second.
+- Pins: mark which point should travel to which, when the automatic match is
+  not the one you want.
+- Sequence: morph through several shapes one after another.
+- Bounce: an overshoot at the end of each morph, with its own sliders.
+- Shapes with holes keep their holes. Fills are solid colours for now.
+
+NEW IN THE AI TAB
+- Flex Agents 1.2: an AI app working in After Effects can now transcribe on
+  this computer (Whisper, no credits) and look at frames, audio and a waveform.
+  Long jobs report back instead of timing out.
+- Review changes (on by default with Flex Agents): each change an agent wants
+  to make waits for you with a Before / After picture: Keep, Undo or Keep all.
+- The chat shows what an agent did as labelled rows: frames, audio, transcribe,
+  waveform.
+
+CHANGED
+- FlexBrowser: when its docked panel is not installed yet, the FlexBrowser tab
+  now downloads and installs it for you (your password once, the first time a
+  Flex plug-in goes into After Effects), then offers to restart After Effects.
+  No separate installer to look for.
+
+UNCHANGED
+- Flex Studio: Transform, Corner Pin, Stabilize, Mask, Warp and Import render
+  work as before.
+- Everything else, and your saved settings.

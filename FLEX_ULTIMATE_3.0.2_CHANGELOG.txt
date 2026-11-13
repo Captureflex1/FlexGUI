@@ -1,0 +1,64 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 3.0.2  -  November 2026
+================================================================================
+
+A track made in Flex Studio now goes onto any clip with one press, the Assets
+tab gets a sound library of your own folders, and the AI tab's agents can
+listen, read a waveform and cut.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your settings, theme, presets and downloaded templates are kept.
+- Import tracking data works with the Flex Studio you already have.
+- New interface text stays in English until the next translation pass.
+
+NEW: IMPORT TRACKING DATA (FX & ADV RIGS > FLEX STUDIO)
+- Track a surface in Flex Studio and press APPLY TO PREMIERE. Back in Premiere
+  Pro select the clip that should follow it (a title, a logo, an image, another
+  video) and press Import tracking data. One press: nothing to load first, no
+  second page.
+- Transform: the clip moves, turns and grows with the surface. It stays exactly
+  where you put it on the frame you are looking at, and its Anchor Point is not
+  moved: only Position, Rotation and Scale get keyframes.
+- Corner Pin: the clip is pinned onto the surface by its four corners, wherever
+  it was and however it was scaled or turned.
+- Position: position only.
+- Several selected clips get the track in the same press.
+- Stabilize clip holds the tracked clip itself still. Remove takes the
+  keyframes of the last import off again.
+- If the tracked clip was moved or re-cut since it was tracked, the page says
+  so instead of writing keyframes in the wrong place.
+
+NEW: SFX IN THE ASSETS TAB (ASSETS > SFX)
+- A PRESETS | SFX switch at the top of Assets. Add a folder of your own sounds
+  and it becomes a library: the files stay where they are.
+- Sounds are sorted into categories by their folder and name; takes of the same
+  sound share one row.
+- Rest the pointer on a sound to hear it (a click plays it too). Press + or
+  double-click to put it on a free audio track at the playhead: it never lands
+  on another clip.
+- The tab starts empty: press Add a sound folder.
+
+NEW IN THE AI TAB
+- Flex Agents 1.2: an AI app working in Premiere Pro can now transcribe the
+  selected clip on this computer (Whisper, no credits), look at a waveform to
+  check a cut point, and cut through ULTIMATE's own silence engine. Long jobs
+  report back instead of timing out.
+- Review changes (on by default with Flex Agents): each change an agent wants
+  to make waits for you: Run, Skip or Run all.
+- The chat shows what an agent did as labelled rows: frames, audio, transcribe,
+  waveform, cut.
+
+CHANGED
+- FlexBrowser: when the FlexBrowser app is not on your computer, its tab now
+  reads DOWNLOAD FLEXBROWSER. One press downloads it, asks before installing
+  (no password) and opens it. No separate installer to look for.
+- A track sent from Flex Studio no longer needs the Motion Tracking page: the
+  notice says where to import it. Motion Tracking > Paste tracking still works
+  as before.
+
+UNCHANGED
+- Everything else: Auto Cut, AutoCaptions, Caption Stack, Audio Studio, Mouse &
+  Macros, themes and your saved settings.
