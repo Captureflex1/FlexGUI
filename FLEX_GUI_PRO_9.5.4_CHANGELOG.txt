@@ -1,0 +1,54 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.5.4  -  November 2026
+================================================================================
+
+AutoCaptions gets the same simple page as Flex ULTIMATE: source, engine, look,
+one button. Flex Grid 2.0 is a grid that holds your layers and can be animated.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme and presets are kept.
+- New interface text stays in English until the next translation pass.
+
+NEW: AUTOCAPTIONS ON ONE PAGE
+- Three tabs: CAPTIONS, EDITOR (the old Style & Editor) and MORE (the local
+  engine setup and the Whisper models).
+- Source: Selected layer or Whole comp. Press neither and it takes the selected
+  layer, or asks about the whole composition when nothing is selected. Three
+  icons choose all of it, only the work area, or only where the layer sits in
+  the composition. The file field, Detect, Scan Comp and Browse are off the
+  page; "Use a media file instead" is under More options.
+- Engine: Cloud (Flex AI: nothing to install, the audio is uploaded, uses
+  credits) or Local (Whisper on this computer: free, one-time setup). The model
+  menu, words per line, Roman script and Fill gaps are under More options.
+- Look: the caption styles and layouts of the Editor, picked before the
+  captions are made.
+- Generate Captions transcribes and, with "Place in the comp when done" on,
+  puts the captions in the composition with that look. Switch it off to style
+  them in the Editor first and place them from there, as before.
+
+NEW: FLEX GRID 2.0 (FX & ADVANCED RIGS > FLEX GRID)
+- APPLY GRID: a grid on the comp, around the selected layer (it follows that
+  layer), or with several selected layers filling its cells.
+- Layers in cells: pictures, video, text, shapes and precomps are cropped to
+  their cell and follow it. Fill, Fit or Keep. A layer can span several cells.
+- Move a line or a crossing on the map and the comp follows.
+- ANIMATE: DRAG (a cursor grabs crossings and pulls the grid) and the loops
+  BREATHE, WAVE and SQUEEZE.
+- Look: points, solid, dashed or dotted lines, width, colour, cell gap, rounded
+  corners; visible in the render, as a guide only, or hidden.
+- Everything it builds is plain After Effects: shape layers, masks and
+  expressions. No plug-in to install.
+
+CHANGED
+- Downloader: when the Flex Downloader app is not on your computer, a card
+  offers it. One press opens its download page.
+- AI tab, Flex AI: a small ring in the message box shows how much of the chat
+  it can still keep in mind. Rest the pointer on it for your usage and limits.
+
+UNCHANGED
+- AutoCaptions' Editor: templates, fonts, colours, motion, the word editor and
+  Import to Timeline work as before.
+- Everything else, and your saved settings.

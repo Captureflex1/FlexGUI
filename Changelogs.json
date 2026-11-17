@@ -1,8 +1,8 @@
 {
-  "id": "flex_gui_pro_announcement_v9_5_3",
-  "title": "9.5.3",
-  "message": "♦️ **FLEX GUI PRO V9.5.3 IS LIVE! (AFTER EFFECTS)**\n\n**Morph Maniac** in the Shape tab, and AI agents that can **listen** and wait for your **OK**.\n\n*(Install over your current version and restart After Effects once.)*\n\n♦️ **New: Morph Maniac** (Shape › Morph Maniac)\n* Morph shapes, text, Illustrator / SVG / PDF layers or masks into one another: a normal shape layer with path keyframes.\n* **Pins** to say which point goes where, **Sequence** for several shapes in a row, **Bounce** for an overshoot.\n* Both ends stay exact, holes stay holes.\n\n♦️ **New in the AI tab**\n* **Flex Agents 1.2**: transcribe on this computer (no credits), frames, audio and waveform for AI apps working in After Effects.\n* **Review changes**: Keep or Undo each change an agent makes, with a Before / After picture.\n\n♦️ **FlexBrowser**: docked panel not installed yet? Its tab now downloads and installs it for you.",
+  "id": "flex_gui_pro_announcement_v9_5_4",
+  "title": "9.5.4",
+  "message": "♦️ **FLEX GUI PRO V9.5.4 IS LIVE! (AFTER EFFECTS)**\n\n**AutoCaptions on one page** and **Flex Grid 2.0**, a grid that holds your layers.\n\n*(Install over your current version and restart After Effects once.)*\n\n♦️ **New: AutoCaptions on one page**\n* **Source**: Selected layer or Whole comp. **Engine**: Cloud or Local. **Look**: the Editor's caption styles and layouts, picked up front.\n* **Generate Captions** transcribes and places the captions in the comp with that look. Switch \"Place in the comp when done\" off to style them in the Editor first.\n* The file field, Detect, Scan Comp and Browse are off the page. Local engine setup and models are under **MORE**.\n\n♦️ **New: Flex Grid 2.0** (FX & Advanced Rigs › Flex Grid)\n* **APPLY GRID** on the comp or around a layer. Put pictures, video, text or precomps in cells: they are cropped to the cell and follow it.\n* **ANIMATE**: a cursor that drags the grid, or the loops Breathe, Wave and Squeeze.\n* Plain shape layers and expressions: no plug-in.\n\n♦️ **Also**: a Flex Downloader card in the Downloader, a context ring for Flex AI in the AI tab.",
   "btnText": "Check Changelog",
-  "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/FLEX_GUI_PRO_9.5.3_CHANGELOG.txt",
-  "versionBelow": "9.5.3"
+  "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/FLEX_GUI_PRO_9.5.4_CHANGELOG.txt",
+  "versionBelow": "9.5.4"
 }

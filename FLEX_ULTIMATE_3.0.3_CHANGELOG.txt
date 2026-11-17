@@ -1,0 +1,76 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 3.0.3  -  November 2026
+================================================================================
+
+AutoCaptions is one simple page now: pick the source, the engine and a look,
+press Generate Captions, and every caption lands on the timeline as its own
+editable template. Three timeline bugs are fixed and Audio Studio gets a tone
+pad.
+
+BEFORE YOU START
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your settings, theme, presets and downloaded templates are kept.
+- New interface text stays in English until the next translation pass.
+
+NEW: AUTOCAPTIONS ON ONE PAGE
+- Source: Selected clip or Whole timeline. Press neither and it takes the
+  selected clip, or asks about the whole timeline when nothing is selected. Two
+  icons choose all of it or only the part between the sequence In and Out
+  points. The file field and Browse are gone: the tab reads the timeline again
+  every time you press Generate Captions.
+- Engine: Cloud (Flex AI: nothing to install, the audio is uploaded, uses
+  credits) or Local (Whisper on this computer: free, one-time setup). The model
+  menu moved under More options.
+- Look: the 20 Hook & Captions designs of the Assets tab, or plain Subtitles,
+  with Size (Small, Medium, Large) and Position (Top, Middle, Low). A design's
+  template is downloaded the first time you use it.
+- Generate Captions places one template per caption on a track that is free
+  there. Every word, font and colour stays editable in Essential Graphics.
+- The captions are sized to the design itself: no more full-frame text, and
+  the glow pack is gone.
+- Caption Stack's page made way for the looks. Word Pop and the transcript are
+  under More.
+
+NEW: EDIT THE CAPTIONS IN THE EDITOR
+- Select the generated captions on the timeline and open EDITOR: each caption
+  is one line. Type, and the words go into that caption's template by
+  themselves. Enter moves to the next line, Escape puts the old words back.
+- All captions lists every generated caption without selecting them. The time
+  beside a line moves the playhead to that caption.
+- Same number of words: each word keeps its place in the design. More or fewer
+  words: they are spread over the design again.
+
+NEW: TONE PAD IN AUDIO STUDIO (PRESETS)
+- Drag one dot: one way is dark to bright, the other is close to spacious. The
+  corners are Dream, Stadium, Underwater and Broken radio, the centre is your
+  sound as it is. Letting go plays the preview.
+- Save a sound you like as your own preset (Mine).
+
+CHANGED
+- Assets: the side list of groups folds away on a second click.
+- Downloader: when the Flex Downloader app is not on your computer, a card
+  offers it. One press opens its download page.
+- AI tab, Flex AI: a small ring in the message box shows how much of the chat
+  it can still keep in mind. Rest the pointer on it for your usage and limits.
+
+FIXED
+- NEST SEP nested only the first selected clip. Every selected clip gets its
+  own nest again.
+- NEST SEP on the last clip of a timeline, when longer than 10 seconds, said
+  the nest was made but could not be placed.
+- UN-NEST failed when it needed a new track. Tools that add a track (UN-NEST,
+  Paste Image, Timeline Shortcuts, FX & ADV RIGS) now add it on top instead of
+  under the top track.
+- L-CUT or J-CUT right after another split edit was refused with "the clip's
+  speed is changed" although the speed was normal.
+- FX & ADV RIGS said "engine did not load" when the panel was updated without
+  restarting Premiere Pro. It now loads the new engine by itself.
+- AutoCaptions with nothing selected asked for a media file instead of
+  offering the whole timeline. It offers the whole timeline now, and Whole
+  timeline on the new page uses the same path.
+
+UNCHANGED
+- Everything else: Auto Cut, Smart Sync, Motion Tracking, Mouse & Macros,
+  themes and your saved settings.
