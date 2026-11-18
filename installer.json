@@ -1,27 +1,27 @@
 {
-  "version": "2.6.0",
-  "display": "2.1.0",
-  "message": "A new look: Home, Panels, Add-ons, Fix and Permissions in one menu. One approval and Python 3.9 on first launch, then panels install and update without asking again. A Permissions page with Grant access and the steps to follow. Flex plug-ins (Force Preview, Particle Simulator, Flex STUDIO, Nemitrix) install and update here. Drag and drop works on Windows, every Flex panel is recognised, and downloads come from the Flex servers.",
+  "version": "2.6.2",
+  "display": "2.1.2",
+  "message": "Fixes panel updates that failed with \"EPERM: operation not permitted\" on Windows and macOS: when the panels folder belongs to an administrator, the app now asks for approval once instead of failing, and never removes a working panel. A panel left blank by an earlier update can be repaired from Home. Add-ons now lists every Flex app and plug-in on your computer, with MapRigs, Flex Studio, the free plug-ins and more.",
   "force_update": false,
   "downloads": {
-    "mac-arm64": "https://flex-downloads.captureflex-in.workers.dev/flex-product-manager/2.6.0/Flex.Product.Manager-2.6.0-arm64.dmg",
-    "mac-x64": "https://flex-downloads.captureflex-in.workers.dev/flex-product-manager/2.6.0/Flex.Product.Manager-2.6.0-x64.dmg",
-    "win": "https://flex-downloads.captureflex-in.workers.dev/flex-product-manager/2.6.0/Flex.Product.Manager.Setup.2.6.0.exe"
+    "mac-arm64": "https://flex-downloads.captureflex-in.workers.dev/flex-product-manager/2.6.2/Flex.Product.Manager-2.6.2-arm64.dmg",
+    "mac-x64": "https://flex-downloads.captureflex-in.workers.dev/flex-product-manager/2.6.2/Flex.Product.Manager-2.6.2-x64.dmg",
+    "win": "https://flex-downloads.captureflex-in.workers.dev/flex-product-manager/2.6.2/Flex.Product.Manager.Setup.2.6.2.exe"
   },
   "checksums": {
     "mac-arm64": {
-      "sha256": "9f16b981f7fd75affb670e149d2c5d610aeb51845e2f07d8ce8a12cc0b6b464c",
-      "size": 119548087
+      "sha256": "5b1ef41fdfffea8a835f8b73fbd338068b3f150a197bfa260944efb34d9930b7",
+      "size": 119556531
     },
     "mac-x64": {
-      "sha256": "264edaee648c7c60dacbb7198a10b7bd44d63ee8fef9289fd65ab72d7d4976fe",
-      "size": 124474563
+      "sha256": "1cc13e8dd609c64370e24bc258026e7fb1464e13fd802334780d384b8c37f604",
+      "size": 124518297
     },
     "win": {
-      "sha256": "bc5fc80cac4b8065fbbc718fe3829804b74f008205e374ba915517abe987267b",
-      "size": 103983973
+      "sha256": "bc00c7bd954cd38846ca71faf49117067919db535a91d3abf493004f422c4569",
+      "size": 104002682
     }
   },
-  "zip": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.Product.Manager.2.6.0.zip",
-  "zip_sha256": "4a8c8dbda75dd57ba5d583464d22bc2ecc0448c3b4b278e2b3087959715cad09"
+  "zip": "https://github.com/Captureflex1/FlexGUI/releases/download/Flexv1.2/Flex.Product.Manager.2.6.2.zip",
+  "zip_sha256": "cf091d4a267d746f6823a2942414b1e6141289349f9374e5a183bbcce400d6fb"
 }
