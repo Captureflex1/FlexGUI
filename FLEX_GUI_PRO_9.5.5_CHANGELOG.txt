@@ -1,0 +1,40 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.5.5  -  November 2026
+================================================================================
+
+Flex AI in the AI tab now works in steps: it looks at your composition, does
+the job with the panel's own tools, checks what it did and fixes it. Also a
+Windows update fix and two AI tab fixes.
+
+BEFORE YOU START
+- Windows: quit After Effects completely before you install. The version you
+  have now runs its Mouse & Macros helper from inside the panel folder, and
+  Windows does not let an installer replace a program that is running.
+- If the panel only shows a loading screen after an update, quit After
+  Effects and install again with Flex Product Manager 2.1.2 or later.
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme and presets are kept.
+
+NEW: FLEX AI WORKS IN STEPS (AI TAB)
+- Flex AI used to write one script and run it without looking. Now it looks
+  first: the composition, the selected layers, the frame. Then it makes a
+  change with the panel's own tools, looks again to check it, and carries on
+  until the job is done. Every step shows in the chat.
+- Each step uses credits, like a reply. You can stop a run at any time.
+- Needs you signed in to Flex AI in the AI tab. Image mode works as before.
+
+FIXED
+- Windows: the Mouse & Macros helper now runs from its own copy outside the
+  panel folder, so it no longer stands in the way of the next update.
+- AI tab: pressing Enter sent every message to the old Flex AI chat, whichever
+  AI you had picked. Enter now sends to the AI you picked, like the send
+  button.
+- AI tab: pictures you attach now reach the AI you picked.
+- Graph Editor > MINE: a right-click on a saved curve opened the rename box
+  and the panel's own menu (Flex Settings, About Flex) on top of each other.
+  Now only the rename box opens.
+
+UNCHANGED
+- Everything else, and your saved settings.

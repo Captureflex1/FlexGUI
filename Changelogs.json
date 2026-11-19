@@ -1,8 +1,8 @@
 {
-  "id": "flex_gui_pro_announcement_v9_5_4",
-  "title": "9.5.4",
-  "message": "♦️ **FLEX GUI PRO V9.5.4 IS LIVE! (AFTER EFFECTS)**\n\n**AutoCaptions on one page** and **Flex Grid 2.0**, a grid that holds your layers.\n\n*(Install over your current version and restart After Effects once.)*\n\n♦️ **New: AutoCaptions on one page**\n* **Source**: Selected layer or Whole comp. **Engine**: Cloud or Local. **Look**: the Editor's caption styles and layouts, picked up front.\n* **Generate Captions** transcribes and places the captions in the comp with that look. Switch \"Place in the comp when done\" off to style them in the Editor first.\n* The file field, Detect, Scan Comp and Browse are off the page. Local engine setup and models are under **MORE**.\n\n♦️ **New: Flex Grid 2.0** (FX & Advanced Rigs › Flex Grid)\n* **APPLY GRID** on the comp or around a layer. Put pictures, video, text or precomps in cells: they are cropped to the cell and follow it.\n* **ANIMATE**: a cursor that drags the grid, or the loops Breathe, Wave and Squeeze.\n* Plain shape layers and expressions: no plug-in.\n\n♦️ **Also**: a Flex Downloader card in the Downloader, a context ring for Flex AI in the AI tab.",
+  "id": "flex_gui_pro_announcement_v9_5_5",
+  "title": "9.5.5",
+  "message": "♦️ **FLEX GUI PRO V9.5.5 IS LIVE! (AFTER EFFECTS)**\n\n**Flex AI now works in steps**, plus a Windows update fix and AI tab fixes.\n\n*(Windows: quit After Effects completely before you install. Then restart After Effects once.)*\n\n♦️ **New: Flex AI works in steps** (AI tab)\n* It looks first (the comp, the selected layers, the frame), makes a change with the panel's own tools, checks it, and carries on until the job is done.\n* Every step shows in the chat and uses credits, like a reply. Stop a run any time.\n\n♦️ **Fixed**\n* **Windows**: the Mouse & Macros helper runs from its own copy outside the panel folder, so it no longer blocks the next update.\n* **AI tab**: Enter sends to the AI you picked; attached pictures reach it.\n* **Graph Editor › MINE**: a right-click on a saved curve no longer opens two menus.\n\n*Panel stuck on a loading screen after an update? Quit After Effects and install again with Flex Product Manager 2.1.2 or later.*",
   "btnText": "Check Changelog",
-  "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/FLEX_GUI_PRO_9.5.4_CHANGELOG.txt",
-  "versionBelow": "9.5.4"
+  "btnLink": "https://github.com/Captureflex1/FlexGUI/blob/main/FLEX_GUI_PRO_9.5.5_CHANGELOG.txt",
+  "versionBelow": "9.5.5"
 }

@@ -1,0 +1,65 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 3.0.4  -  November 2026
+================================================================================
+
+Flex AI in the AI tab now works in steps, Word Pop builds real word clips you
+can edit, and the Undo buttons of Auto Cut, Cleanup and Retakes really bring
+the cut back. Also fixes for the 4-colour gradient, Nest Deck, right-click
+menus and Windows updates.
+
+BEFORE YOU START
+- Windows: quit Premiere Pro completely before you install. The version you
+  have now runs its Mouse & Macros helper from inside the panel folder, and
+  Windows does not let an installer replace a program that is running.
+- If the panel only shows a loading screen after an update, quit Premiere Pro
+  and install again with Flex Product Manager 2.1.2 or later.
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your settings, theme, presets and downloaded templates are kept.
+
+NEW: FLEX AI WORKS IN STEPS (AI TAB)
+- Flex AI used to write one script and run it without looking. Now it looks
+  first: the sequence, the selected clips, the frame in the Program Monitor.
+  Then it makes a change with the panel's own tools, looks again to check it,
+  and carries on until the job is done. Every step shows in the chat.
+- Each step uses credits, like a reply. You can stop a run at any time.
+- When Flex AI looks at a frame, Premiere Pro shows its own short "Exported
+  frame" notice in the corner. That is expected.
+- Needs you signed in to Flex AI in the AI tab. Image mode works as before.
+
+NEW: WORD POP MAKES REAL WORD CLIPS (AUTOCAPTIONS > MORE > WORD POP)
+- On Premiere Pro 2026, Word Pop placed clips that could not take a word.
+  Now it places one clip per word: bold white with a dark edge, low in the
+  frame, popping in. The clips are named "Flex Word 1", "Flex Word 2" and so
+  on, and every word stays editable in Essential Graphics.
+- Target Track 0 puts the words on a free track above everything (a new one
+  on top when there is none).
+- Diagnostics places one test word at the playhead and tells you whether it
+  worked.
+
+FIXED
+- UNDO LAST AUTO CUT and UNDO LAST CLEANUP never undid anything in Premiere
+  Pro (they stopped with an error). They now take Premiere's own history back
+  to just before the cut. This works for cuts made since the panel was opened.
+  If you made other changes after the cut, it asks first.
+- Retakes: Ctrl+Z in Premiere brought a removed retake back only partly. The
+  Retakes footer now has an Undo button that brings the whole removal back.
+- Colors tab: every 4-colour gradient failed with "Premiere accepted the
+  effect but did not report it back on the clip". It lands again.
+- UN-NEST now asks before it leaves out an effect that this Premiere Pro does
+  not have. FX & ADV RIGS and Smart Sync no longer report an effect as added
+  when Premiere did not add it.
+- Nest Deck: double-click a deck to rename it works again.
+- A right-click on a saved curve (Graph Editor > MINE), an Assets template or
+  a Nest Deck opened the tool's menu and the panel's own menu on top of each
+  other. Now only the tool's menu opens.
+- AutoCaptions Editor: "All captions" fell back to an empty list when the
+  selection changed (for example with Selection Follows Playhead on). It now
+  stays until you press "Only selected".
+- Windows: the Mouse & Macros helper now runs from its own copy outside the
+  panel folder, so it no longer stands in the way of the next update.
+
+UNCHANGED
+- Everything else: AutoCaptions, Smart Sync, Motion Tracking, Audio Studio,
+  themes and your saved settings.
