@@ -1,0 +1,74 @@
+================================================================================
+FLEX ULTIMATE FOR PREMIERE PRO - WHAT'S NEW
+Version 3.1.0  -  November 2026
+================================================================================
+
+AutoCaptions gets 21 new animated looks that come in as real text clips you
+can edit word by word. Auto Clipper turns a long video into Shorts with
+captions in one go. The Graph Editor now shapes Premiere's own keyframe
+handles instead of adding keyframes in between. Plus 83 new templates in
+Assets and a Local mode repair button.
+
+BEFORE YOU START
+- Windows: quit Premiere Pro completely before you install.
+- Install over your current version with your usual ZXP installer, then restart
+  Premiere Pro once.
+- Your settings, theme, presets and downloaded templates are kept.
+
+NEW: 21 ANIMATED CAPTION LOOKS AS TEXT CLIPS (AUTOCAPTIONS > LOOK)
+- New looks in the Real Estate group: Showcase, Open House, Skyline, Spark
+  Count, Headline, Gilded, Chrome Line, Remix, Velvet, Springboard,
+  Highlighter, Staircase, Boardroom, Marquee, Widescreen, Cockpit, Slide Deck,
+  Neon Stack, Scrapbook, Stage Light and Orbit.
+- Output: Text clips (new) puts every word on its own Premiere text clip,
+  stacked on new tracks above your edit (your clips are never moved or
+  covered). Each word keeps its moves as keyframes and stays editable in
+  Essential Graphics. Glows, sparks and shapes sit on one clip under the
+  words. Remove takes them all out again.
+- Output: Video clip makes one drawn clip, as before. Showcase, Open House
+  and Skyline put your own footage inside the big words in this mode.
+- A look whose fonts you do not have installs them for you (all free fonts).
+  Restart Premiere Pro once after that.
+
+NEW: AUTO CLIPPER (FX & ADV RIGS > AUTO CLIPPER)
+- Long video in, Shorts out: select the video, press CREATE SHORTS. It
+  transcribes the video, picks the best moments, makes one 1080x1920
+  sequence per moment in a "Flex Auto Clipper" bin and captions each one with
+  a look from Assets > Hook & Captions (editable in Essential Graphics).
+- Cloud (Flex AI picks the moments, uses credits) or Local (on your computer,
+  no internet). Optional MP4 export through Media Encoder.
+- Each Short gets a ready title, description and hashtags to copy.
+- Your own sequences are never changed.
+
+NEW: GRAPH EDITOR KEYS = HANDLES / SMART / BAKED
+- HANDLES (the new default): your curve is put on Premiere's own keyframe
+  handles. No keyframes are added in between.
+- SMART: adds only the few keyframes a strong curve needs (elastic, bounce).
+- BAKED: the old way, a keyframe on every frame.
+- Works on Position and Anchor Point too.
+- The Graph Editor now opens on the BASE library with PARAMETERS closed, and
+  remembers where you leave it.
+
+NEW: 83 TEMPLATES IN ASSETS
+- Slideshows: Colorful, Dynamic and Modern Liquid Slideshows (10 -> 40).
+- Transitions: Cartoon, Liquid Motion, Neon, Seamless and Splash Liquid
+  Transitions (72 -> 125).
+
+NEW: LOCAL MODE "FIX IT" (AUTOCAPTIONS)
+- When Local mode will not run, FIX IT sets up its own private Python,
+  Whisper and ffmpeg for Flex, with a repair for each failure it finds.
+  Nothing else on your computer is changed.
+
+CHANGED
+- Tooltips are off by default. Turn them back on in Settings > Tooltips.
+  When they are off, no tip shows at all (before, a plain hover tip still
+  came up after a long hover).
+- The AutoCaptions tab icon is now "Aa".
+
+FIXED
+- Downloader: "Download a section" downloaded the whole video when the Flex
+  Downloader app was installed. It now downloads the section.
+
+UNCHANGED
+- Everything else: AutoCaptions, Smart Sync, Motion Tracking, Audio Studio,
+  themes and your saved settings.

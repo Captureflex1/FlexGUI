@@ -1,0 +1,82 @@
+================================================================================
+FLEX GUI PRO FOR AFTER EFFECTS - WHAT'S NEW
+Version 9.6.0  -  November 2026
+================================================================================
+
+AutoCaptions gets ULTIMATE's looks plus 21 new animated looks that come in as
+real text layers you can edit word by word. FX & ADV RIGS gets an Assets tab
+with ULTIMATE's template library, a Grid Transition and a new Shakes screen.
+The Text tab, Morph and the Templates editor have a cleaner layout. Also fixes
+for SPLIT, Comp Saver imports and section downloads.
+
+BEFORE YOU START
+- Windows: quit After Effects completely before you install.
+- Install over your current version with your usual ZXP installer, then restart
+  After Effects once.
+- Your settings, theme and presets are kept.
+
+NEW: 21 ANIMATED CAPTION LOOKS AS TEXT LAYERS (AUTOCAPTIONS > LOOK)
+- New looks in the Real Estate group: Showcase, Open House, Skyline, Spark
+  Count, Headline, Gilded, Chrome Line, Remix, Velvet, Springboard,
+  Highlighter, Staircase, Boardroom, Marquee, Widescreen, Cockpit, Slide Deck,
+  Neon Stack, Scrapbook, Stage Light and Orbit.
+- Output: Text layers (new) puts every word on its own text layer in one comp,
+  "Flex Captions - <look>", on top of your comp. Each word keeps its moves as
+  keyframes, so you can change the text, font, colour or timing of any word.
+  Glows, sparks and shapes sit on one clip under the words. Numbers count up
+  through Source Text keyframes. Showcase, Open House and Skyline put your own
+  footage inside the big words (a track matte).
+- Output: Video clip makes one drawn clip, as before.
+- A look whose fonts you do not have installs them for you (all free fonts).
+  Restart After Effects once after that.
+
+NEW: AUTOCAPTIONS LOOKS = ULTIMATE'S
+- The LOOK card now shows the same templates as Flex ULTIMATE, and the
+  AutoCaptions page opens at once.
+
+NEW: FX & ADV RIGS > ASSETS
+- ULTIMATE's template library in After Effects: titles, lower thirds,
+  transitions, slideshows, social media, light leaks and more (1,886
+  templates, 83 of them new: Colorful, Dynamic and Modern Liquid Slideshows;
+  Cartoon, Liquid Motion, Neon, Seamless and Splash Liquid Transitions).
+- Double-click a template: its After Effects project comes in, filed under a
+  "Flex Assets" folder, and its comp drops into your comp at the playhead,
+  fitted to the frame. Every layer, effect and control stays editable.
+- Templates saved by a newer After Effects open without the version warning.
+- Templates download the first time you use them.
+
+NEW: GRID TRANSITION (FX & ADV RIGS > SAAS EFFECTS)
+- A cut between two clips through a grid: cells flash in order (Diagonal,
+  Random, Centre, Rows, Columns) and the second clip shows in each one.
+  Pick FROM and TO (or USE SELECTED) and press CREATE TRANSITION. Everything
+  is live on a "Grid Control" null.
+
+NEW LAYOUTS
+- Text tab, Morph and the Templates editor: two-pane layout, smaller
+  controls. The text preview starts on its first frame, on plain black.
+- Shakes: a list with a preview and an Apply button (double-click still
+  applies).
+- Force Preview: a smaller window and a drop-down mode.
+- Tooltips are off by default. Turn them back on in Settings > Tooltips.
+
+NEW: LOCAL MODE "FIX IT" (AUTOCAPTIONS)
+- When Local mode will not run, FIX IT sets up its own private Python,
+  Whisper and ffmpeg for Flex, with a repair for each failure it finds.
+  Nothing else on your computer is changed.
+
+FIXED
+- Advanced+ SPLIT never split a layer (it always said "Move the playhead over
+  the selected layers"). It now splits every selected layer under the
+  playhead, following your "Create Split Layers Above Original" preference.
+- Comp Saver: Undo after importing a saved comp said "Undo group mismatch".
+  Fixed.
+- Downloader: "Download a section" downloaded the whole video when the Flex
+  Downloader app was installed. It now downloads the section.
+- FX PRESETS: the List / Grid switch works again. The Shapes BETA notice is
+  gone.
+
+REMOVED
+- The FLEX GRID tab. Flex Grid is being rebuilt as an effect of its own.
+
+UNCHANGED
+- Everything else, and your saved settings.

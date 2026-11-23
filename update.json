@@ -1,7 +1,7 @@
 {
-  "version": "9.5.5",
-  "message": "UPDATE v9.5.5 AVAILABLE",
-  "link": "https://flex-downloads.captureflex-in.workers.dev/flex-gui-pro/9.5.5/Flex.zxp",
+  "version": "9.6.0",
+  "message": "UPDATE v9.6.0 AVAILABLE",
+  "link": "https://flex-downloads.captureflex-in.workers.dev/flex-gui-pro/9.6.0/Flex.zxp",
   "force_update": false,
-  "cdn_link": "https://flex-downloads.captureflex-in.workers.dev/flex-gui-pro/9.5.5/Flex.zxp"
+  "cdn_link": "https://flex-downloads.captureflex-in.workers.dev/flex-gui-pro/9.6.0/Flex.zxp"
 }

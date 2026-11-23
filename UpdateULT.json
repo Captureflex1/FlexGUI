@@ -1,7 +1,7 @@
 {
-  "version": "3.0.4",
-  "message": "UPDATE v3.0.4 AVAILABLE",
-  "link": "https://flex-downloads.captureflex-in.workers.dev/flex-ultimate/3.0.4/FlexUltimate.zxp",
+  "version": "3.1.0",
+  "message": "UPDATE v3.1.0 AVAILABLE",
+  "link": "https://flex-downloads.captureflex-in.workers.dev/flex-ultimate/3.1.0/FlexUltimate.zxp",
   "force_update": false,
-  "cdn_link": "https://flex-downloads.captureflex-in.workers.dev/flex-ultimate/3.0.4/FlexUltimate.zxp"
+  "cdn_link": "https://flex-downloads.captureflex-in.workers.dev/flex-ultimate/3.1.0/FlexUltimate.zxp"
 }
