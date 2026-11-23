@@ -2582,8 +2582,8 @@
   },
   {
    "id": "transitions",
-   "count": 72,
-   "bytes": 195123859,
+   "count": 125,
+   "bytes": 224958826,
    "files": [
     {
      "path": "transitions/Transition_01.mogrt",
@@ -2944,6 +2944,271 @@
      "path": "transitions/Film Burn/Film Burn Transition Burn Triple.mogrt",
      "bytes": 28509425,
      "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Film_Burn__Film_Burn_Transition_Burn_Triple.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 01.mogrt",
+     "bytes": 397997,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_01.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 02.mogrt",
+     "bytes": 1145389,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_02.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 03.mogrt",
+     "bytes": 146029,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_03.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 04.mogrt",
+     "bytes": 576943,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_04.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 05.mogrt",
+     "bytes": 990945,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_05.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 06.mogrt",
+     "bytes": 924114,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_06.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 07.mogrt",
+     "bytes": 291993,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_07.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 08.mogrt",
+     "bytes": 1762607,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_08.mogrt"
+    },
+    {
+     "path": "transitions/Cartoon Liquid Transitions/Cartoon Liquid Transition 09.mogrt",
+     "bytes": 655889,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Cartoon_Liquid_Transitions__Cartoon_Liquid_Transition_09.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 01.mogrt",
+     "bytes": 68864,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_01.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 02.mogrt",
+     "bytes": 97829,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_02.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 03.mogrt",
+     "bytes": 80986,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_03.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 04.mogrt",
+     "bytes": 182682,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_04.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 05.mogrt",
+     "bytes": 153117,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_05.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 06.mogrt",
+     "bytes": 194460,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_06.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 07.mogrt",
+     "bytes": 97766,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_07.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 08.mogrt",
+     "bytes": 61601,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_08.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 09.mogrt",
+     "bytes": 173666,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_09.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 10.mogrt",
+     "bytes": 378804,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_10.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 11.mogrt",
+     "bytes": 94241,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_11.mogrt"
+    },
+    {
+     "path": "transitions/Liquid Motion Transitions/Liquid Motion Transition 12.mogrt",
+     "bytes": 102399,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Liquid_Motion_Transitions__Liquid_Motion_Transition_12.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 01.mogrt",
+     "bytes": 603610,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_01.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 02.mogrt",
+     "bytes": 920145,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_02.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 03.mogrt",
+     "bytes": 594425,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_03.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 04.mogrt",
+     "bytes": 1289862,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_04.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 05.mogrt",
+     "bytes": 647770,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_05.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 06.mogrt",
+     "bytes": 770479,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_06.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 07.mogrt",
+     "bytes": 538484,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_07.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 08.mogrt",
+     "bytes": 588457,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_08.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 09.mogrt",
+     "bytes": 764028,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_09.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 10.mogrt",
+     "bytes": 695821,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_10.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 11.mogrt",
+     "bytes": 784805,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_11.mogrt"
+    },
+    {
+     "path": "transitions/Neon Liquid Transitions/Neon Liquid Transition 12.mogrt",
+     "bytes": 646941,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Neon_Liquid_Transitions__Neon_Liquid_Transition_12.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 01.mogrt",
+     "bytes": 2248430,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_01.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 02.mogrt",
+     "bytes": 1042887,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_02.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 03.mogrt",
+     "bytes": 1108902,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_03.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 04.mogrt",
+     "bytes": 869468,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_04.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 05.mogrt",
+     "bytes": 492719,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_05.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 06.mogrt",
+     "bytes": 398334,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_06.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 07.mogrt",
+     "bytes": 637107,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_07.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 08.mogrt",
+     "bytes": 1615360,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_08.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 09.mogrt",
+     "bytes": 1610392,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_09.mogrt"
+    },
+    {
+     "path": "transitions/Seamless Liquid Transitions/Seamless Liquid Transition 10.mogrt",
+     "bytes": 965091,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Seamless_Liquid_Transitions__Seamless_Liquid_Transition_10.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 01.mogrt",
+     "bytes": 134233,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_01.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 02.mogrt",
+     "bytes": 48955,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_02.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 03.mogrt",
+     "bytes": 119531,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_03.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 04.mogrt",
+     "bytes": 55120,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_04.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 05.mogrt",
+     "bytes": 187815,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_05.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 06.mogrt",
+     "bytes": 65715,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_06.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 07.mogrt",
+     "bytes": 243874,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_07.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 08.mogrt",
+     "bytes": 249752,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_08.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 09.mogrt",
+     "bytes": 157316,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_09.mogrt"
+    },
+    {
+     "path": "transitions/Splash Liquid Transitions/Splash Liquid Transition 10.mogrt",
+     "bytes": 160818,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/transitions__Splash_Liquid_Transitions__Splash_Liquid_Transition_10.mogrt"
     }
    ]
   },
@@ -8513,8 +8778,8 @@
   },
   {
    "id": "slideshows",
-   "count": 10,
-   "bytes": 106600475,
+   "count": 40,
+   "bytes": 401922115,
    "files": [
     {
      "path": "slideshows/Minimalist Carousel Slideshow 01 - Background.mogrt",
@@ -8565,6 +8830,156 @@
      "path": "slideshows/Minimalist Carousel Slideshow 10 - Scene 9.mogrt",
      "bytes": 1440869,
      "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Minimalist_Carousel_Slideshow_10_-_Scene_9.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 01.mogrt",
+     "bytes": 20336916,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_01.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 02.mogrt",
+     "bytes": 20243814,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_02.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 03.mogrt",
+     "bytes": 19162064,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_03.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 04.mogrt",
+     "bytes": 20296121,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_04.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 05.mogrt",
+     "bytes": 20120795,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_05.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 06.mogrt",
+     "bytes": 19670304,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_06.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 07.mogrt",
+     "bytes": 19248428,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_07.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 08.mogrt",
+     "bytes": 19420508,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_08.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 09.mogrt",
+     "bytes": 19981471,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_09.mogrt"
+    },
+    {
+     "path": "slideshows/Colorful Liquid Slideshow/Colorful Liquid Slide 10.mogrt",
+     "bytes": 19508649,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Colorful_Liquid_Slideshow__Colorful_Liquid_Slide_10.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 01.mogrt",
+     "bytes": 8021207,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_01.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 02.mogrt",
+     "bytes": 6268336,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_02.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 03.mogrt",
+     "bytes": 9496656,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_03.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 04.mogrt",
+     "bytes": 819480,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_04.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 05.mogrt",
+     "bytes": 1541024,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_05.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 06.mogrt",
+     "bytes": 1481210,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_06.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 07.mogrt",
+     "bytes": 1400073,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_07.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 08.mogrt",
+     "bytes": 813867,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_08.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 09.mogrt",
+     "bytes": 1427807,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_09.mogrt"
+    },
+    {
+     "path": "slideshows/Dynamic Liquid Slideshow/Dynamic Liquid Slide 10.mogrt",
+     "bytes": 1810765,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Dynamic_Liquid_Slideshow__Dynamic_Liquid_Slide_10.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 01.mogrt",
+     "bytes": 6581234,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_01.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 02.mogrt",
+     "bytes": 7308198,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_02.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 03.mogrt",
+     "bytes": 5031724,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_03.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 04.mogrt",
+     "bytes": 5160365,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_04.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 05.mogrt",
+     "bytes": 7102828,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_05.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 06.mogrt",
+     "bytes": 8130745,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_06.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 07.mogrt",
+     "bytes": 7642687,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_07.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 08.mogrt",
+     "bytes": 6200525,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_08.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 09.mogrt",
+     "bytes": 5909900,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_09.mogrt"
+    },
+    {
+     "path": "slideshows/Modern Liquid Slideshow/Modern Liquid Slide 10.mogrt",
+     "bytes": 5183939,
+     "url": "https://github.com/Captureflex1/FlexGUI/releases/download/library-v3/slideshows__Modern_Liquid_Slideshow__Modern_Liquid_Slide_10.mogrt"
     }
    ]
   },
